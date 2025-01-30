@@ -1,0 +1,34 @@
+[
+    {
+        "prompt": "Pilot: Engine on fire on the runway. Instructions?",
+        "completion": "LLM: Immediately continue to crank the engine. If it starts, run at 1800 RPM then shut down for inspection. If not, full throttle, idle mixture, continue cranking, shut off fuel, and power. Get a fire extinguisher, evacuate, and extinguish the fire."
+    },
+    {
+        "prompt": "Pilot: Fire in engine while flying. Need steps!",
+        "completion": "LLM: Quickly idle the mixture, turn off fuel, and keep under 160 knots. Prepare for no-power landing by securing cabin, setting glide speed, and shutting down all power. Use full flaps if possible, unlatch doors pre-touchdown, and brake heavily after landing."
+    },
+    {
+        "prompt": "Pilot: Wing's on fire. What to do?",
+        "completion": "LLM: Shift fuel away from fire side, turn off all lights, perform a sideslip to move fire away from fuel and cabin. Look for a landing site, secure cabin, aim for 65 knots, and cut all power before landing. Open doors pre-landing, brake hard on ground."
+    },
+    {
+        "prompt": "Pilot: Engine quit in air. What next?",
+        "completion": "LLM: Immediately aim for 68 knots glide speed and search for landing spots. Run the engine restart checklist. If it fails, declare an emergency, ensure ELT is on, and prepare for a forced landing by securing the aircraft, shutting down systems, and unlatching doors."
+    },
+    {
+        "prompt": "Pilot: How to land without engine power?",
+        "completion": "LLM: Ensure readiness, secure everything, adjust for 65 knots with flaps or 70 without. Full flaps for landing, fuel shutoff OUT, mixture IDLE, power off, doors unlatched. Brake hard after landing."
+    },
+    {
+        "prompt": "Pilot: Engine fire during flight. Immediate actions?",
+        "completion": "LLM: Idle mixture, cut off fuel, maintain under 160 knots. Secure cabin for engine-out landing, set glide speed, on final, deploy flaps, cut all power, unlatch doors, brake heavily on touchdown."
+    },
+    {
+        "prompt": "Pilot: Cockpit fire, what's the protocol?",
+        "completion": "LLM: Cut power with standby battery and master switch off, close vents, use extinguisher. Once out, ventilate, check systems one by one, prepare for landing with power on if safe, or make an emergency landing."
+    },
+    {
+        "prompt": "Pilot: Electrical fire up here. What do I do?",
+        "completion": "LLM: Turn off standby battery, master switch, avionics, all switches. Close vents, extinguish fire. Then ventilate, reactivate systems stepwise, head for nearest landing to check for damages."
+    }
+]

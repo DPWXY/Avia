@@ -1,0 +1,202 @@
+[
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight. Any quick tips?",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight. Any quick tips?",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight. Any quick tips?",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight. Any quick tips?",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground. Any quick tips?",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground. Any quick tips?",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight. Any quick tips?",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight. Any quick tips?",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground. Any quick tips?",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight. Any quick tips?",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight. Any quick tips?",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight.",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight. Help",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight. Help",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight. Help",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight. Help",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Help! Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight.",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight.",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight.",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight.",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight.",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Wing fire during flight.",
+        "completion": "LLM: Direct fuel away from the affected side and turn off all external lights to prevent aggravation of the fire. Execute a sideslip to move the flames away from critical areas. Plan for a precautionary landing: ensure everyone's secured, choose a landing spot, lower flaps, and cut all power before landing. Open the doors early, land safely, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire during flight.",
+        "completion": "LLM: Immediately idle the mixture and cut off the fuel. Keep the plane under 160 knots and prepare for an engine-out landing. Secure the cabin, set for best glide speed, and plan to shut everything off. Deploy flaps if possible, open doors before landing, and prepare for a firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    },
+    {
+        "prompt": "Pilot: Looks like there's a Engine fire on the ground.",
+        "completion": "LLM: Try cranking the magnetos to get the engine started. If it starts, let it run at 1800 RPM for a bit, then shut it down and check for any damage. If it won't start, push the throttle all the way, set the mixture to idle, keep cranking, shut off the fuel, and power down everything. Grab an extinguisher, make sure everyone gets out, and tackle that fire."
+    }
+]

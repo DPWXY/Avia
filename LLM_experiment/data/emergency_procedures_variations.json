@@ -1,0 +1,206 @@
+[
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Obtain a fire extinguisher. Evacuate passengers. Continue cranking the magnetos to attempt to start the engine. Extinguish the fire."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: Evacuate passengers. If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Continue cranking the magnetos to attempt to start the engine. Extinguish the fire."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. Evacuate passengers. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Continue cranking the magnetos to attempt to start the engine. Extinguish the fire. Obtain a fire extinguisher."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. Continue cranking the magnetos to attempt to start the engine. Extinguish the fire. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Obtain a fire extinguisher. Evacuate passengers."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: Evacuate passengers. Continue cranking the magnetos to attempt to start the engine. If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Obtain a fire extinguisher. Extinguish the fire."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. Extinguish the fire. Continue cranking the magnetos to attempt to start the engine. Obtain a fire extinguisher. Evacuate passengers."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: Extinguish the fire. Obtain a fire extinguisher. Continue cranking the magnetos to attempt to start the engine. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Evacuate passengers."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Extinguish the fire. If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. Evacuate passengers. Continue cranking the magnetos to attempt to start the engine. Obtain a fire extinguisher."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: Extinguish the fire. Obtain a fire extinguisher. Continue cranking the magnetos to attempt to start the engine. Evacuate passengers. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: Obtain a fire extinguisher. Continue cranking the magnetos to attempt to start the engine. If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. Evacuate passengers. Extinguish the fire. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: Evacuate passengers. Extinguish the fire. Continue cranking the magnetos to attempt to start the engine. Obtain a fire extinguisher. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: Extinguish the fire. Evacuate passengers. Continue cranking the magnetos to attempt to start the engine. If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. Evacuate passengers. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Extinguish the fire. Obtain a fire extinguisher."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: Obtain a fire extinguisher. Extinguish the fire. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Continue cranking the magnetos to attempt to start the engine. If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. Evacuate passengers."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: Obtain a fire extinguisher. Continue cranking the magnetos to attempt to start the engine. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Extinguish the fire. Evacuate passengers. If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Evacuate passengers. Continue cranking the magnetos to attempt to start the engine. Extinguish the fire."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire on the ground. What should I do?",
+        "completion": "LLM: Here's what to do: If the engine doesn't start: Set throttle to full, mixture to idle, continue cranking, shut off the fuel selector, turn off the fuel pump, magnetos, standby battery, and master switch. Extinguish the fire. Obtain a fire extinguisher. If the engine starts, increase power to 1800 RPM for a few minutes, then shut down and inspect for damage. Continue cranking the magnetos to attempt to start the engine."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Maintain airspeed within 160 knots. Set the mixture to idle. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Shut off the fuel selector."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Maintain airspeed within 160 knots. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Shut off the fuel selector."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Maintain airspeed within 160 knots. Set the mixture to idle. Shut off the fuel selector. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Shut off the fuel selector. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Maintain airspeed within 160 knots. Set the mixture to idle."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Set the mixture to idle. Maintain airspeed within 160 knots. Shut off the fuel selector."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Set the mixture to idle. Maintain airspeed within 160 knots. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Shut off the fuel selector."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Set the mixture to idle. Maintain airspeed within 160 knots. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Shut off the fuel selector. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Set the mixture to idle. Maintain airspeed within 160 knots."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Shut off the fuel selector. Maintain airspeed within 160 knots. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Set the mixture to idle."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Shut off the fuel selector. Maintain airspeed within 160 knots. Set the mixture to idle."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Shut off the fuel selector. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Maintain airspeed within 160 knots."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Set the mixture to idle. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Shut off the fuel selector."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Set the mixture to idle. Maintain airspeed within 160 knots. Shut off the fuel selector."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Maintain airspeed within 160 knots. Shut off the fuel selector. Set the mixture to idle."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Shut off the fuel selector. Maintain airspeed within 160 knots. Set the mixture to idle."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Shut off the fuel selector. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed. Maintain airspeed within 160 knots."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Engine fire in flight. What should I do?",
+        "completion": "LLM: Here's what to do: Maintain airspeed within 160 knots. Set the mixture to idle. Shut off the fuel selector. Prepare for an emergency landing without power: Secure seats, seat backs upright, seat belts fastened, set airspeed to 65 knots with flaps or 70 knots without flaps, use full flaps if possible, shut off all systems, unlatch doors before touchdown, apply heavy braking once landed."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat. Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Turn the fuel selector to the side without the fire."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Turn the fuel selector to the side without the fire. Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Perform a sideslip to keep the fire away from the fuel tank and cabin. Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Turn the fuel selector to the side without the fire."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Perform a sideslip to keep the fire away from the fuel tank and cabin. Turn the fuel selector to the side without the fire."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Turn the fuel selector to the side without the fire. Perform a sideslip to keep the fire away from the fuel tank and cabin. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Turn the fuel selector to the side without the fire. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat. Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Turn the fuel selector to the side without the fire. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat. Perform a sideslip to keep the fire away from the fuel tank and cabin."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Perform a sideslip to keep the fire away from the fuel tank and cabin. Turn the fuel selector to the side without the fire. Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat. Perform a sideslip to keep the fire away from the fuel tank and cabin. Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Turn the fuel selector to the side without the fire. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat. Perform a sideslip to keep the fire away from the fuel tank and cabin."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Turn the fuel selector to the side without the fire. Perform a sideslip to keep the fire away from the fuel tank and cabin. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Turn the fuel selector to the side without the fire. Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Perform a sideslip to keep the fire away from the fuel tank and cabin. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Perform a sideslip to keep the fire away from the fuel tank and cabin. Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat. Turn the fuel selector to the side without the fire."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a  Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Perform a sideslip to keep the fire away from the fuel tank and cabin. Turn the fuel selector to the side without the fire. Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a critical Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Turn the fuel selector to the side without the fire. Perform a sideslip to keep the fire away from the fuel tank and cabin. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat. Perform a sideslip to keep the fire away from the fuel tank and cabin. Turn the fuel selector to the side without the fire."
+    },
+    {
+        "prompt": "Pilot: I am experiencing a severe Wing fire during flight. What should I do?",
+        "completion": "LLM: Here's what to do: Prepare for a precautionary landing with power: Secure seats, seat backs upright, seat belts fastened, fly over the selected field, lower flaps to 20 degrees, set airspeed to 65 knots, on final approach use full flaps, shut off standby battery and master switch, unlatch doors before touchdown, apply heavy braking once landed. Turn the fuel selector to the side without the fire. Turn off navigation lights, strobe lights, taxi light, landing light, and pitot heat."
+    }
+]
