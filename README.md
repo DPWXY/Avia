@@ -33,3 +33,29 @@ https://ranataki.github.io/avia.github.io/
 
 ## App
 The App for our project is in `App` folder.
+
+## Team Contribution
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Contribution</th>
+    </tr>
+    <tr>
+        <td colspan="2;">Sprint 1</td>
+    </tr>
+    <tr>
+        <td>Rana Taki</td>
+        <td>TODO</td>
+    </tr>
+    <tr>
+        <td>Xiaoyue Wang</td>
+        <td>Training Data preperation, LLM model implementaion<br>Openai gpt-4o-mini fintuning and chat completion<br>Openai Speech-to-text and text-to-speech experiments</td>
+    </tr>
+    <tr>
+        <td>Yiguo Zheng</td>
+        <td>TODO</td>
+    </tr>
+</table>
+
+
+
