@@ -18,3 +18,9 @@ If there is error on any other package installation, try:
 ```bash
 python -m pip install package_name
 ```
+
+### Website
+The website for our project is in `Website` folder.
+
+### App
+The App for our project is in `App` folder.
