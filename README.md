@@ -29,7 +29,7 @@ python -m pip install package_name
 ```
 
 ## Website
-The website for our project is in `Website` folder.
+https://ranataki.github.io/avia.github.io/:x
 
 ## App
 The App for our project is in `App` folder.
