@@ -1,5 +1,14 @@
 # Avia
 ## Project Idea
+Avia is an AI-powered voice assistant designed to revolutionize flight training.  
+It provides:  
+- Real-time voice-guided assistance.  
+- Personalized learning tools.  
+- Cost-effective training solutions.  
+Our goal is to:  
+- Make pilot training more efficient and accessible.  
+- Help student pilots overcome challenges like multitasking under pressure.  
+- Offer real-time guidance to enhance decision-making and safety.  
 
 ## LLM Experiments
 To run our current LLM related models and experiments, go to `LLM_experiment` folder and run the set up code to install neccessary environment and paste your `your_openai_api_key` in the code to run the Openai api.
