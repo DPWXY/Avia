@@ -11,23 +11,6 @@ Our goal is to:
 - Help student pilots overcome challenges like multitasking under pressure.  
 - Offer real-time guidance to enhance decision-making and safety.
 
-  
-## Team Contributions
-Rana:
-
-Designed and developed the UI/UX for the Avia mobile application, ensuring an intuitive and user-friendly interface.
-Built the mobile app prototype and led initial testing to validate core functionalities.
-Zoey:
-
-Conducted market research to identify challenges in pilot training.
-Defined the problem statement, proposed solutions, and validated features through user interviews.
-Xiaoyue:
-
-Developed advanced LLM models tailored to aviation-specific contexts.
-Implemented speech-to-text and text-to-speech functionalities for real-time voice-guided assistance.
-
-
-
 ## LLM Experiments
 To run our current LLM related models and experiments, go to `LLM_experiment` folder and run the set up code to install neccessary environment and paste your `your_openai_api_key` in the code to run the Openai api.
 ### Set up
@@ -47,10 +30,10 @@ python -m pip install package_name
 ```
 
 ## Website
-https://ranataki.github.io/avia.github.io/
+[To access our website](https://ranataki.github.io/avia.github.io/)
 
 ## App
-The App for our project is in `App` folder.
+The App for our project is in `App` folder. Clone this repository and open the code in App folders with Xcode to run the ios App. In order to use the LLM features, you need to replace the `api-key` with your own Openai keys.
 
 ## Team Contribution
 <table>
@@ -63,15 +46,18 @@ The App for our project is in `App` folder.
     </tr>
     <tr>
         <td>Rana Taki</td>
-        <td>TODO</td>
+        <td>Designed and developed the UI/UX for the Avia mobile application, ensuring an intuitive and user-friendly interface.<br>
+Built the mobile app prototype and led initial testing to validate core functionalities.</td>
     </tr>
     <tr>
         <td>Xiaoyue Wang</td>
-        <td>Training Data preperation, LLM model implementaion<br>Openai gpt-4o-mini fintuning and chat completion<br>Openai Speech-to-text and text-to-speech experiments</td>
+        <td>Developed advanced LLM models (with/without fine-tuning) tailored to aviation-specific contexts.<br>
+Implemented speech-to-text and text-to-speech functionalities for real-time voice-guided assistance</td>
     </tr>
     <tr>
         <td>Yiguo Zheng</td>
-        <td>TODO</td>
+        <td>Conducted market research to identify challenges in pilot training.<br>
+Defined the problem statement, proposed solutions, and validated features through user interviews.</td>
     </tr>
 </table>
 
