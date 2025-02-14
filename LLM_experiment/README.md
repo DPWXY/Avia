@@ -3,10 +3,16 @@ This part contains code for running LLM models, fine=tuning LLM models, and a si
 
 ### Set up
 To run the code, make sure you have packages installed. If not, please follow the environment set up:
+Before install PyAudio, install portaudio, especially for M2 Mac users.
 ```bash
+brew install portaudio
+```
+Then
+```bash
+cd LLM_experiment
 conda create --name avia python=3.10
 conda activate avia
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 If you cannot install tiktoken using conda, try this:
