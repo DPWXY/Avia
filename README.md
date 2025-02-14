@@ -1,5 +1,10 @@
-# Avia
-![My Image](./assets/logo.jpeg)
+<p align="center">
+  <picture>
+    <img alt="Logo" src="assets/logo.png" width="100" height="100" style="vertical-align: middle;">
+  </picture>
+  <span style="font-size: 50px; font-weight: bold; vertical-align: middle;">Avia</span>
+</p>
+
 ## Project Idea
 Avia is an AI-powered voice assistant designed to revolutionize flight training.  
 It provides:  
@@ -32,6 +37,17 @@ In **Sprint 2**, we focused on refining **prompt engineering** to enhance the vo
 
 
 ## LLM Experiments
+
+### Website Demo
+We also provide website for holding our LLM demo. If you don't have access to Openai API key, you can directly try our speech to speech pipeline through the website.
+
+You can visit [the website](https://huggingface.co/spaces/DPWXY15/Avia-demo). 
+You can choose either give vioce input to simulate the flying situation or text input for testing model's output. The model's text output and voice output will be display on the website. You can also end conversation and start a new conversation. 
+
+We also include a demo here. For display, we use text input. 
+![Demo](./assets/demo.gif)
+
+
 To run our current LLM related models and experiments, go to `LLM_experiment` folder and run the set up code to install neccessary environment and paste your `your_openai_api_key` in the code to run the Openai api.
 ### Set up
 ```bash
