@@ -42,7 +42,7 @@ In **Sprint 2**, we focused on refining **prompt engineering** to enhance the vo
 
 
 ## LLM Experiments
-
+For this folder, it contains code used to train, test, and evaluate LLM's performance on our copilot task. 
 ### Website Demo (NEW)
 We also provide website for holding our LLM demo. If you don't have access to Openai API key, you can directly try our speech to speech pipeline through the website.
 
@@ -58,10 +58,15 @@ We provide more data in `/LLM_experiment/data`, those data are better quality an
 ### Run Locally
 To run our current LLM related models and experiments, go to `LLM_experiment` folder and run the set up code to install neccessary environment and paste your `your_openai_api_key` in the code to run the Openai api.
 #### Set up
+Before install PyAudio, install portaudio, especially for M2 Mac users.
+```bash
+brew install portaudio
+```
+Then
 ```bash
 conda create --name avia python=3.10
 conda activate avia
-pip install -r LLM_experiment/requirement.txt
+pip install -r LLM_experiment/requirements.txt
 ```
 
 If you cannot install tiktoken using conda, try this:
