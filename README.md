@@ -11,6 +11,25 @@ Our goal is to:
 - Help student pilots overcome challenges like multitasking under pressure.  
 - Offer real-time guidance to enhance decision-making and safety.
 
+
+## Sprint 2 Updates  
+
+### Prompt Engineering Improvements  
+In **Sprint 2**, we focused on refining **prompt engineering** to enhance the voice assistant’s ability to handle **incomplete or unclear inputs** from pilots, particularly in **high-stress situations**. Key improvements include:  
+- Better interpretation of **fragmented or disordered speech** to extract essential intent.  
+- Enhanced robustness against **emergency-induced communication challenges**.  
+
+### Bluetooth Connectivity & Noise Handling  
+- Integrated **Bluetooth connectivity** for smoother real-time interactions.  
+- Addressed prior **aircraft noise issues**, improving model response time in **high-noise environments**.  
+- Optimized **speech recognition speed**, reducing the processing lag experienced in Sprint 1.  
+
+### Next Steps  
+- Further enhance **mixed-language processing** (e.g., English + aviation terminology).  
+- Improve **stability in extreme noise conditions**.  
+- Optimize **real-time decision-making support** for pilots.  
+
+
 ## LLM Experiments
 To run our current LLM related models and experiments, go to `LLM_experiment` folder and run the set up code to install neccessary environment and paste your `your_openai_api_key` in the code to run the Openai api.
 ### Set up
@@ -46,18 +65,18 @@ The App for our project is in `App` folder. Clone this repository and open the c
     </tr>
     <tr>
         <td>Rana Taki</td>
-        <td>Designed and developed the UI/UX for the Avia mobile application, ensuring an intuitive and user-friendly interface.<br>
-Built the mobile app prototype and led initial testing to validate core functionalities.</td>
+        <td>Refined the UI/UX for a more seamless user experience.<br>
+Led mobile app updates and incorporated feedback from early testing.</td>
     </tr>
     <tr>
         <td>Xiaoyue Wang</td>
-        <td>Developed advanced LLM models (with/without fine-tuning) tailored to aviation-specific contexts.<br>
-Implemented speech-to-text and text-to-speech functionalities for real-time voice-guided assistance</td>
+        <td>Enhanced LLM adaptability to process fragmented commands.<br>
+Optimized the speech-to-text pipeline for faster response times in high-noise conditions.</td>
     </tr>
     <tr>
         <td>Yiguo Zheng</td>
-        <td>Conducted market research to identify challenges in pilot training.<br>
-Defined the problem statement, proposed solutions, and validated features through user interviews.</td>
+        <td>Conducted user research to analyze real-world pilot communication challenges.<br>
+Led VC applications and built pilot communities in Palo Alto.</td>
     </tr>
 </table>
 
