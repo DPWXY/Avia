@@ -30,7 +30,7 @@ python -m pip install package_name
 ```
 
 ## Website
-[To access our website](https://ranataki.github.io/avia.github.io/)
+[To access our website](https://zoeyyyzheng.github.io/getavia.github.io/team.html)
 
 ## App
 The App for our project is in `App` folder. Clone this repository and open the code in App folders with Xcode to run the ios App. In order to use the LLM features, you need to replace the `api-key` with your own Openai keys.
@@ -42,7 +42,7 @@ The App for our project is in `App` folder. Clone this repository and open the c
         <th>Contribution</th>
     </tr>
     <tr>
-        <td colspan="2;">Sprint 1</td>
+        <td colspan="2;">Sprint 2</td>
     </tr>
     <tr>
         <td>Rana Taki</td>
