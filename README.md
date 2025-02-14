@@ -1,9 +1,10 @@
 <p align="center">
   <picture>
-    <img alt="Logo" src="assets/logo.png" width="100" height="100" style="vertical-align: middle;">
+    <img alt="Logo" src="assets/title.png" height="100" style="vertical-align: middle;">
   </picture>
-  <span style="font-size: 50px; font-weight: bold; vertical-align: middle;">Avia</span>
 </p>
+
+[Click here visit our website](https://zoeyyyzheng.github.io/getavia.github.io/team.html)
 
 ## Project Idea
 Avia is an AI-powered voice assistant designed to revolutionize flight training.  
@@ -30,6 +31,10 @@ In **Sprint 2**, we focused on refining **prompt engineering** to enhance the vo
 - Addressed prior **aircraft noise issues**, improving model response time in **high-noise environments**.  
 - Optimized **speech recognition speed**, reducing the processing lag experienced in Sprint 1.  
 
+### Website Update
+- Build website for our project
+- Build LLM demo website through HuggingFace Space
+
 ### Next Steps  
 - Further enhance **mixed-language processing** (e.g., English + aviation terminology).  
 - Improve **stability in extreme noise conditions**.  
@@ -38,7 +43,7 @@ In **Sprint 2**, we focused on refining **prompt engineering** to enhance the vo
 
 ## LLM Experiments
 
-### Website Demo
+### Website Demo (NEW)
 We also provide website for holding our LLM demo. If you don't have access to Openai API key, you can directly try our speech to speech pipeline through the website.
 
 You can visit [the website](https://huggingface.co/spaces/DPWXY15/Avia-demo). 
@@ -47,9 +52,9 @@ You can choose either give vioce input to simulate the flying situation or text 
 We also include a demo here. For display, we use text input. 
 ![Demo](./assets/demo.gif)
 
-
+### Run Locally
 To run our current LLM related models and experiments, go to `LLM_experiment` folder and run the set up code to install neccessary environment and paste your `your_openai_api_key` in the code to run the Openai api.
-### Set up
+#### Set up
 ```bash
 conda create --name avia python=3.10
 conda activate avia
@@ -64,9 +69,6 @@ If there is error on any other package installation, try:
 ```bash
 python -m pip install package_name
 ```
-
-## Website
-[To access our website](https://zoeyyyzheng.github.io/getavia.github.io/team.html)
 
 ## App
 The App for our project is in `App` folder. Clone this repository and open the code in App folders with Xcode to run the ios App. In order to use the LLM features, you need to replace the `api-key` with your own Openai keys.
