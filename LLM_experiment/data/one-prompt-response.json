@@ -1,0 +1,422 @@
+[
+    {
+        "prompt": "Pilot: Engine failure in flight! What should I do immediately?",
+        "completion": "LLM: Roger. First, trim the nose up twice to reach 68 knots for best glide speed. Then scan outside for a large, flat, yellow field free of obstructions. Next, follow the engine checklist: move the selector left, then right, then both; shift the shutoff in; adjust throttle to ¼; lean the mixture; turn the fuel pump on then off; crank the engine while enriching the mixture; and check the magnetos left, right, then both. If the engine restarts, head for the nearest airport. If not, declare an emergency."
+    },
+    {
+        "prompt": "Pilot: Engine failure in flight. I need a quick recap.",
+        "completion": "LLM: Copy that. Trim the nose up twice until you hit 68 knots. Look for a suitable landing field. Run through the engine checklist—selector left/right/both, shutoff in, throttle ¼, lean mixture, fuel pump on/off, crank with mixture enrichment, and magnetos left/right/both. If it fails to restart, declare emergency and follow emergency procedures."
+    },
+    {
+        "prompt": "Pilot: I don't understand the engine checklist. Can you clarify?",
+        "completion": "LLM: Certainly. Start by trying the engine selector in the left, then right, and then both positions. Next, move the engine shutoff to the in position, set throttle to one-quarter power, lean the mixture, and toggle the fuel pump on then off. After that, crank the engine while enriching the mixture, and finally, check the magnetos by switching them left, right, then both. Does that clear things up?"
+    },
+    {
+        "prompt": "Pilot: Engine failure detected. What's the next step?",
+        "completion": "LLM: Immediately trim the nose up twice to establish a 68-knot glide. Look outside for a large, flat, yellow field with no nearby wires. Then, follow your engine checklist: cycle through the selector, shut off in, set throttle to ¼, lean the mixture, toggle fuel pump on then off, crank the engine with enriched mixture, and test magnetos. If it restarts, proceed to the nearest airport; if not, declare emergency."
+    },
+    {
+        "prompt": "Pilot: There's an engine fire in flight. How do I handle it?",
+        "completion": "LLM: Stay focused. First, idle the mixture and move the engine shutoff out. Keep your airspeed under 160 knots. Prepare for an engine-out landing by securing the cabin and setting for best glide speed. Deploy flaps if possible, open doors prior to landing, and plan for firm braking on touchdown."
+    },
+    {
+        "prompt": "Pilot: Engine fire in flight! Quick tips?",
+        "completion": "LLM: Immediately set the mixture to idle and cut off the fuel by moving the shutoff out. Keep your airspeed below 160 knots and prepare for an emergency landing. Secure the cabin, set best glide speed, and, if conditions allow, deploy flaps. Open doors before landing and apply heavy braking upon touchdown."
+    },
+    {
+        "prompt": "Pilot: There's a wing fire during flight. What are my priorities?",
+        "completion": "LLM: First, turn the selector to the side not affected by the fire. Then, shut off external lights (nav, strobe, taxi, landing) and pitot heat. Maintain airspeed within 160 knots and execute a sideslip to move the fire away from the fuel tank and cabin. Finally, prepare for a precautionary landing with power."
+    },
+    {
+        "prompt": "Pilot: Wing fire in flight. Any quick steps?",
+        "completion": "LLM: Yes. Direct fuel away from the affected side by turning the selector away from the fire, disable all external lights and pitot heat, and keep your speed under 160 knots. Sideslip to protect critical areas, then set up for a precautionary landing: secure everyone, choose a landing spot, lower flaps as needed, and cut power before touchdown."
+    },
+    {
+        "prompt": "Pilot: We have an engine fire on the ground. How do I proceed?",
+        "completion": "LLM: Stay calm. Continue cranking the magnetos. If the engine restarts, maintain 1800 RPM for a few minutes before shutting down and inspecting for damage. If it doesn't restart, set throttle to full, lean the mixture to idle, continue cranking magnetos, move the shutoff out, turn off the fuel pump, then magnetos, standby battery, and master. Retrieve your fire extinguisher, evacuate passengers, and extinguish the fire."
+    },
+    {
+        "prompt": "Pilot: Engine fire on the ground. Give me the checklist.",
+        "completion": "LLM: Sure. First, keep cranking the magnetos. If the engine starts, maintain about 1800 RPM for a short period and then shut it down to inspect damage. If it fails to start, apply full throttle, set mixture to idle, and continue cranking the magnetos. Then, move the engine shutoff out, turn off the fuel pump, magnetos, standby battery, and master. Get the fire extinguisher, evacuate passengers, and put out the fire."
+    },
+    {
+        "prompt": "Pilot: I need guidance for an emergency landing without power.",
+        "completion": "LLM: Understood. First, ensure you're on standby. Secure all seats on track, have seat backs upright, and fasten seat belts. Maintain an airspeed of 65 knots with flaps (or 70 without). As you approach final, deploy full flaps if possible, move the engine shutoff out, set the mixture to idle, turn off standby then master, and disable the magnetos. Unlatch the doors and, after touchdown, apply heavy braking."
+    },
+    {
+        "prompt": "Pilot: Emergency landing without power checklist, please.",
+        "completion": "LLM: Roger. Confirm standby mode, secure seats and fasten belts. Fly at 65 knots (or 70 without flaps). On final, deploy full flaps if possible, set engine shutoff out, mixture idle, standby off, master off, and magnetos off. Unlatch doors and brake heavily once you touch down."
+    },
+    {
+        "prompt": "Pilot: How do I perform a precautionary landing with power?",
+        "completion": "LLM: For a precautionary landing with power, secure seats, ensure seat backs are upright and belts are fastened. Fly over your chosen field with flaps at 20° and maintain about 65 knots. On final, deploy full flaps, turn off standby then master, unlatch doors, and on touchdown, set mixture to idle, turn off magnetos, and apply heavy brakes."
+    },
+    {
+        "prompt": "Pilot: Precautionary landing with power. Run me through it.",
+        "completion": "LLM: Copy that. First, secure seats on track, ensure seat backs are upright, and fasten seat belts. Fly over a preselected field with 20° flaps at 65 knots. On final, deploy full flaps, keep 65 knots, turn off standby then master, and unlatch the doors. On touchdown, set mixture to idle, disable magnetos, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: I have an electrical fire. What's my checklist?",
+        "completion": "LLM: Begin by checking if any switch is already off. Then, turn off the standby battery, master switch, and avionics. Shut off all other switches. If you see flames, close vents, cabin heat, and cabin air, then activate the fire extinguisher. Once the fire is out, reopen vents, cabin heat, and cabin air, and try turning on the standby battery, master, and avionics one by one—watch for unusual smells. Land at the nearest airport as soon as possible."
+    },
+    {
+        "prompt": "Pilot: Electrical fire onboard. Quick steps?",
+        "completion": "LLM: Immediately turn off the standby battery, master switch, and avionics. Shut all other switches. If flames are visible, close vents, cabin heat, and cabin air, then use your fire extinguisher. After confirming the fire is out, reopen vents and attempt to power up systems cautiously. Proceed to land at the nearest airport."
+    },
+    {
+        "prompt": "Pilot: There's a cabin fire. What do I do?",
+        "completion": "LLM: First, turn off the standby battery and master switch. Shut off vents, cabin heat, and cabin air, then activate the fire extinguisher. Once the fire is completely out, reopen vents, cabin heat, and cabin air. Next, prepare for a precautionary landing with power: secure all seats, fasten belts, fly over a selected field with 20° flaps at 65 knots, then on final deploy full flaps, switch off standby and master, unlatch doors, set mixture to idle, disable magnetos, and apply heavy braking."
+    },
+    {
+        "prompt": "Pilot: Cabin fire emergency—what are my steps?",
+        "completion": "LLM: Roger. Cut power by turning off the standby battery and master switch. Shut off all air systems (vents, cabin heat, and cabin air) and use your fire extinguisher. After ensuring the fire is out, reopen those systems and execute a precautionary landing with power. Secure seats, fasten belts, fly at 65 knots with appropriate flap settings, and on touchdown, disable magnetos and brake hard."
+    },
+    {
+        "prompt": "Pilot: Engine failure and I can't get the engine to restart. What now?",
+        "completion": "LLM: If the engine won't restart after your checklist, declare an emergency immediately. Activate the ELT, set your transponder to 7700, and press the radio switch button long to set COM to 121.5. Then, repeat: “Mayday, mayday, [who] [where] emergency landing [# of passengers].” Finally, focus on flying the plane and prepare for an emergency landing."
+    },
+    {
+        "prompt": "Pilot: I lost engine power. How do I declare an emergency?",
+        "completion": "LLM: Declare an emergency by activating the ELT and setting your transponder to 7700. Then press and hold the radio switch button to set COM to 121.5. Finally, clearly state: “Mayday, mayday, [who] [where] emergency landing [# of passengers].” Follow that by focusing on flying the aircraft."
+    },
+    {
+        "prompt": "Pilot: I'm confused about the magnetos step. Can you explain?",
+        "completion": "LLM: Certainly. After you've attempted to restart the engine with the enriched mixture, check the magnetos by switching them one at a time: first try left, then right, and finally both. This helps determine if one magneto might be faulty. If the engine restarts, proceed with your landing procedure; if not, continue with your emergency declaration."
+    },
+    {
+        "prompt": "Pilot: Engine failure – what should I do with the fuel pump?",
+        "completion": "LLM: In an engine failure situation, after leaning the mixture, turn the fuel pump on briefly and then off. This sequence helps clear any issues with fuel delivery. Then continue with cranking the engine and checking the magnetos."
+    },
+    {
+        "prompt": "Pilot: I've trimmed the plane and set my glide speed. What next?",
+        "completion": "LLM: Next, scan for a suitable landing field—look for a large, flat, yellow field free of obstructions. Then proceed with your engine checklist: cycle through the selector, move the shutoff in, adjust throttle to ¼, lean the mixture, toggle the fuel pump, crank the engine with enriched mixture, and test magnetos. If the engine doesn't restart, prepare to declare an emergency."
+    },
+    {
+        "prompt": "Pilot: Engine failure. I've tried restarting but no luck. What now?",
+        "completion": "LLM: If the engine does not restart, declare an emergency. Activate your ELT, set the transponder squawk to 7700, and press and hold the radio switch to set COM to 121.5. Then clearly state: “Mayday, mayday, [who] [where] emergency landing [# of passengers].” Focus on controlling the aircraft and prepare for landing."
+    },
+    {
+        "prompt": "Pilot: Engine fire in flight – what do I do about airspeed?",
+        "completion": "LLM: Keep your airspeed below 160 knots. This helps prevent additional damage or further complications while you manage the fire and prepare for an emergency landing."
+    },
+    {
+        "prompt": "Pilot: During an engine fire in flight, how should I handle the flaps?",
+        "completion": "LLM: If possible, deploy the flaps to aid in your approach. However, prioritize keeping your airspeed under 160 knots and managing the engine by idling the mixture and cutting off fuel. Then prepare for an emergency landing with the appropriate flap settings."
+    },
+    {
+        "prompt": "Pilot: We have a wing fire. How do I initiate a sideslip?",
+        "completion": "LLM: To perform a sideslip, bank the aircraft toward the live wing while applying opposite rudder. This maneuver will help keep the fire away from the fuel tank and cabin. Maintain an airspeed below 160 knots and prepare for a precautionary landing with power."
+    },
+    {
+        "prompt": "Pilot: Wing fire detected. What should I do about the external lights?",
+        "completion": "LLM: Immediately turn off all external lights—nav, strobe, taxi, and landing lights—as well as the pitot heat. This prevents additional heat buildup that could worsen the fire. Then proceed with a sideslip and prepare for a precautionary landing."
+    },
+    {
+        "prompt": "Pilot: I'm about to land with no engine power. What should I do on final approach?",
+        "completion": "LLM: On final, deploy full flaps if possible, move the engine shutoff out, set the mixture to idle, turn off standby and master, and disable the magnetos. Unlatch the doors in preparation for landing, then upon touchdown, apply heavy braking."
+    },
+    {
+        "prompt": "Pilot: Emergency landing without power—what's my speed?",
+        "completion": "LLM: Maintain an airspeed of 65 knots if using flaps, or 70 knots without flaps. This will help you achieve the best possible control during your descent and landing."
+    },
+    {
+        "prompt": "Pilot: I need a step-by-step for a precautionary landing with power.",
+        "completion": "LLM: Understood. First, secure the seats and ensure seat backs are upright with belts fastened. Fly over your chosen field with flaps at 20° maintaining 65 knots. As you go final, deploy full flaps, then turn off standby and master, and unlatch the doors. After touchdown, set the mixture to idle, disable the magnetos, and brake heavily."
+    },
+    {
+        "prompt": "Pilot: Precautionary landing with power—what do I do about the flaps?",
+        "completion": "LLM: Begin with flaps at 20° while flying over your selected field at 65 knots. On final, if conditions allow, deploy full flaps to stabilize your approach. Then complete the landing procedure by turning off standby, master, and unlatching the doors."
+    },
+    {
+        "prompt": "Pilot: I'm not sure about the throttle setting during engine failure. Clarify?",
+        "completion": "LLM: During an engine failure, after trimming for best glide, set the throttle to about one-quarter power. This is part of the engine checklist to see if a brief power boost can restart the engine before you declare an emergency."
+    },
+    {
+        "prompt": "Pilot: Engine failure in flight—how do I manage the mixture?",
+        "completion": "LLM: Once you've trimmed for best glide, adjust the mixture to lean. Later, when you attempt to restart the engine, enrich the mixture while cranking to see if that will help restart the engine."
+    },
+    {
+        "prompt": "Pilot: Engine failure checklist—what's the sequence with the selector?",
+        "completion": "LLM: The sequence is to first try the selector in the left position, then the right, and finally in both positions. This helps determine if a particular side is causing the issue."
+    },
+    {
+        "prompt": "Pilot: I've set my best glide speed. Now what about the fuel pump?",
+        "completion": "LLM: After setting best glide speed, lean the mixture and then turn the fuel pump on briefly before turning it off. This is designed to address any potential fuel delivery issues before attempting an engine restart."
+    },
+    {
+        "prompt": "Pilot: Engine failure—what if the magnetos don't work?",
+        "completion": "LLM: If after checking the magnetos (left, right, then both) the engine still fails to restart, it's critical to declare an emergency. Follow the emergency procedures by activating the ELT, setting your transponder to 7700, and contacting ATC."
+    },
+    {
+        "prompt": "Pilot: Engine fire in flight. Should I adjust flaps immediately?",
+        "completion": "LLM: Only deploy flaps if conditions allow and if it helps stabilize your approach. Your primary focus should be on idling the mixture, cutting off fuel by moving the shutoff out, and maintaining an airspeed below 160 knots."
+    },
+    {
+        "prompt": "Pilot: Engine fire in flight—what's my priority with the mixture?",
+        "completion": "LLM: The first priority is to set the mixture to idle. This helps reduce the fuel flow to the engine and minimize the fire's intensity, allowing you to focus on a controlled emergency landing."
+    },
+    {
+        "prompt": "Pilot: I'm having trouble with the selector during engine failure. What should I try?",
+        "completion": "LLM: Try moving the selector first to the left, then to the right, and finally try both positions. This sequence can help determine if one side of the engine is causing the issue."
+    },
+    {
+        "prompt": "Pilot: The engine isn't restarting after my checklist. How do I declare an emergency?",
+        "completion": "LLM: If the engine fails to restart, declare an emergency by activating the ELT, setting your transponder to 7700, and holding down the radio switch to set COM to 121.5. Then clearly state: “Mayday, mayday, [who] [where] emergency landing [# of passengers].”"
+    },
+    {
+        "prompt": "Pilot: During an emergency landing without power, when do I unlatch the doors?",
+        "completion": "LLM: Unlatch the doors on final approach—once you've set the engine shutoff out, mixture to idle, and turned off standby and master. This allows for a quick exit after touchdown."
+    },
+    {
+        "prompt": "Pilot: I'm confused about when to deploy full flaps. Help?",
+        "completion": "LLM: For an emergency landing without power, deploy full flaps on final if possible. For a precautionary landing with power, start with 20° flaps over the field, then deploy full flaps on final. Follow the checklist specific to your situation."
+    },
+    {
+        "prompt": "Pilot: Engine fire on ground—what if the engine restarts?",
+        "completion": "LLM: If the engine restarts during an engine fire on the ground, maintain about 1800 RPM for a few minutes to ensure stability, then shut the engine down to inspect for damage before proceeding with other safety checks."
+    },
+    {
+        "prompt": "Pilot: I've set my airspeed for emergency landing without power. What about the mixture?",
+        "completion": "LLM: Once you've reached the correct airspeed—65 knots with flaps or 70 without—set the mixture to idle. This is part of the checklist before turning off standby, master, and magnetos on final."
+    },
+    {
+        "prompt": "Pilot: I'm on final for an emergency landing without power. Run me through the last steps.",
+        "completion": "LLM: On final, deploy full flaps if possible, move the engine shutoff to the out position, set the mixture to idle, turn off standby and master, and disable the magnetos. Unlatch the doors, then upon touchdown, apply heavy braking."
+    },
+    {
+        "prompt": "Pilot: Precautionary landing with power—what's the first thing I must do?",
+        "completion": "LLM: First, secure the cabin by ensuring all seats are on track, seat backs are upright, and seat belts are fastened. Then fly over your selected field at 65 knots with 20° flaps before transitioning to final."
+    },
+    {
+        "prompt": "Pilot: I'm setting up for a precautionary landing with power. What do I do on touchdown?",
+        "completion": "LLM: After touchdown, set the mixture to idle, turn off the magnetos, and apply heavy braking. Also, make sure the doors are unlatched to allow for a quick exit if needed."
+    },
+    {
+        "prompt": "Pilot: There's an electrical fire. Should I try to reset any switches?",
+        "completion": "LLM: No. First, check if any switch is already off. Then, turn off the standby battery, master switch, and avionics. Shut off all other switches. If the fire is visible, close vents, cabin heat, and cabin air before activating the fire extinguisher."
+    },
+    {
+        "prompt": "Pilot: Electrical fire—after extinguishing, what should I do with the vents?",
+        "completion": "LLM: Once the fire is completely out, reopen the vents along with cabin heat and cabin air. Then, cautiously try powering systems one at a time while monitoring for any unusual smells, and proceed to land at the nearest airport."
+    },
+    {
+        "prompt": "Pilot: Cabin fire detected. Do I shut off all systems immediately?",
+        "completion": "LLM: Yes. First, turn off the standby battery and master switch, and then shut off vents, cabin heat, and cabin air. Activate the fire extinguisher. Once the fire is out, reopen those systems and prepare for a precautionary landing with power."
+    },
+    {
+        "prompt": "Pilot: Cabin fire—do I need to notify ATC differently?",
+        "completion": "LLM: While managing the cabin fire with the checklist, your primary focus is on safety. After extinguishing the fire and securing the cabin, declare an emergency if needed and advise ATC of your situation before landing."
+    },
+    {
+        "prompt": "Pilot: Engine failure—what's the best glide speed I need to maintain?",
+        "completion": "LLM: The best glide speed for a Cessna 172 is approximately 68 knots. Make sure to trim the nose up twice to reach this speed immediately after detecting an engine failure."
+    },
+    {
+        "prompt": "Pilot: I've reached best glide speed in an engine failure. What's next?",
+        "completion": "LLM: Once at 68 knots, scan for a landing field that's large, flat, and yellow with no nearby obstacles. Then execute the engine checklist: selector left/right/both, shutoff in, throttle ¼, lean mixture, fuel pump on then off, crank engine with enriched mixture, and test magnetos."
+    },
+    {
+        "prompt": "Pilot: Engine failure—do I need to adjust the mixture before or after the throttle?",
+        "completion": "LLM: After trimming for best glide, set the throttle to one-quarter power and then lean the mixture. This sequence is important for attempting an engine restart."
+    },
+    {
+        "prompt": "Pilot: In case of an engine failure, how do I know when to declare an emergency?",
+        "completion": "LLM: If, after following the engine checklist—including adjusting the selector, shutoff, throttle, mixture, fuel pump, and magnetos—the engine fails to restart, it's time to declare an emergency immediately."
+    },
+    {
+        "prompt": "Pilot: Engine fire in flight—how important is it to secure the cabin?",
+        "completion": "LLM: It's very important. Securing the cabin means ensuring all passengers are buckled up and all loose items are stowed, which helps prevent additional injuries during an emergency landing."
+    },
+    {
+        "prompt": "Pilot: I'm preparing for an emergency landing without power. Should I adjust the throttle?",
+        "completion": "LLM: No, once you've reached your target airspeed (65 or 70 knots), set the throttle as needed and ensure the mixture is at idle. Your focus should shift to shutting down unnecessary systems and preparing for landing."
+    },
+    {
+        "prompt": "Pilot: Precautionary landing with power—do I need to retract flaps before touchdown?",
+        "completion": "LLM: No. For a precautionary landing with power, you maintain flaps throughout the approach—starting with 20° then transitioning to full flaps on final—to help slow the aircraft and stabilize your approach."
+    },
+    {
+        "prompt": "Pilot: Engine fire on ground—how do I know if the engine is stable after it restarts?",
+        "completion": "LLM: If the engine restarts, maintain 1800 RPM for a few minutes to check for any irregularities. Once you confirm stability, shut down the engine and inspect for damage before proceeding."
+    },
+    {
+        "prompt": "Pilot: Electrical fire—should I immediately shut off the master switch?",
+        "completion": "LLM: Yes. In the event of an electrical fire, turn off the standby battery, master switch, and avionics immediately, then proceed to shut off all other switches to cut power to the affected systems."
+    },
+    {
+        "prompt": "Pilot: I'm not clear on the order of operations for an electrical fire. Can you break it down?",
+        "completion": "LLM: Absolutely. First, check if any switch is already off. Then, in order, turn off the standby battery, then the master switch, followed by the avionics and all other switches. If flames are present, close vents, cabin heat, and cabin air, then use the fire extinguisher. After the fire is out, reopen the vents and cautiously test the systems."
+    },
+    {
+        "prompt": "Pilot: There's a wing fire and I'm executing a sideslip. What airspeed should I maintain?",
+        "completion": "LLM: Keep your airspeed below 160 knots during a sideslip to ensure control of the aircraft while moving the fire away from the fuel tank and cabin."
+    },
+    {
+        "prompt": "Pilot: Wing fire—do I need to adjust my flaps during the sideslip?",
+        "completion": "LLM: Not immediately. First, focus on turning off external lights and maintaining a sideslip to steer the fire away. Once the situation stabilizes, then adjust flaps as required for a precautionary landing."
+    },
+    {
+        "prompt": "Pilot: I'm not sure about the radio procedures after an engine failure. Can you explain?",
+        "completion": "LLM: Of course. If the engine doesn't restart, declare an emergency by activating your ELT and setting your transponder to 7700. Then press and hold the radio switch button to set COM to 121.5, and clearly state: “Mayday, mayday, [who] [where] emergency landing [# of passengers].”"
+    },
+    {
+        "prompt": "Pilot: Engine failure—what's the proper order for toggling the fuel pump?",
+        "completion": "LLM: After leaning the mixture, turn the fuel pump on briefly, then off. This should be done before you crank the engine again with an enriched mixture."
+    },
+    {
+        "prompt": "Pilot: Engine fire in flight—should I cut off fuel immediately?",
+        "completion": "LLM: Yes. In an engine fire in flight, after idling the mixture, move the engine shutoff out to cut off fuel. This is critical to reducing the intensity of the fire."
+    },
+    {
+        "prompt": "Pilot: I'm confused about when to use full flaps. Can you help?",
+        "completion": "LLM: Certainly. For an emergency landing without power, deploy full flaps on final if possible. In a precautionary landing with power, you start with 20° flaps over the field and then deploy full flaps on final."
+    },
+    {
+        "prompt": "Pilot: Engine failure—how do I handle the throttle if the engine restarts?",
+        "completion": "LLM: If the engine restarts after following your checklist, maintain your current throttle setting as needed for a controlled approach to the nearest airport. Then, prepare to land by following standard landing procedures."
+    },
+    {
+        "prompt": "Pilot: During an engine failure, how critical is it to scan for a landing field?",
+        "completion": "LLM: It's extremely important. While managing your checklist, continuously scan outside for a large, flat, yellow field that is free from electrical wires or other hazards. This is your best chance for a safe landing."
+    },
+    {
+        "prompt": "Pilot: Engine failure—do I need to notify anyone if the engine restarts?",
+        "completion": "LLM: Yes. Even if the engine restarts, inform ATC of your situation. Advise them that you experienced an engine failure and are proceeding to the nearest airport as a precaution."
+    },
+    {
+        "prompt": "Pilot: I'm about to declare an emergency. What exact phrase should I use?",
+        "completion": "LLM: When declaring an emergency, state clearly: “Mayday, mayday, [who] [where] emergency landing [# of passengers].” Be sure to activate your ELT and set your transponder to 7700 before making the call."
+    },
+    {
+        "prompt": "Pilot: Wing fire—how do I ensure the fuel stays away from the fire?",
+        "completion": "LLM: To keep the fuel away from the fire, immediately turn the selector to the side not affected by the fire and perform a sideslip. This maneuver helps direct the fuel away from the critical areas."
+    },
+    {
+        "prompt": "Pilot: Engine fire on the ground—how do I safely shut down the engine if it restarts?",
+        "completion": "LLM: If the engine restarts, maintain about 1800 RPM for a few minutes to confirm stability. Then shut down the engine and inspect for any damage before continuing with the fire suppression and evacuation procedures."
+    },
+    {
+        "prompt": "Pilot: There's a cabin fire and I'm unsure if I should reopen vents immediately after extinguishing it. What do I do?",
+        "completion": "LLM: After completely extinguishing the cabin fire, wait until you're sure the fire is fully out. Then reopen the vents, cabin heat, and cabin air, and proceed with preparing for a precautionary landing."
+    },
+    {
+        "prompt": "Pilot: Engine failure—how do I manage the transition from attempting a restart to declaring an emergency?",
+        "completion": "LLM: Once you've completed the checklist (selector, shutoff, throttle, mixture, fuel pump, crank, and magnetos) and the engine still won't restart, immediately declare an emergency by activating the ELT, setting the transponder to 7700, and contacting ATC with the appropriate mayday call."
+    },
+    {
+        "prompt": "Pilot: I'm having trouble maintaining the proper airspeed during an emergency landing without power. Any advice?",
+        "completion": "LLM: Keep a close eye on your airspeed indicator. Aim for 65 knots if using flaps or 70 knots without. Adjust your pitch and use minor control inputs to maintain that speed as you configure for landing."
+    },
+    {
+        "prompt": "Pilot: Engine fire in flight—do I need to adjust the throttle after setting the mixture to idle?",
+        "completion": "LLM: No, once you set the mixture to idle and move the engine shutoff out to cut fuel, maintain your current airspeed under 160 knots while you prepare for your emergency landing."
+    },
+    {
+        "prompt": "Pilot: During a precautionary landing with power, how should I manage my flaps between the field and final?",
+        "completion": "LLM: Start with 20° flaps while flying over your chosen field at about 65 knots. Then, on final, deploy full flaps if conditions allow. This helps stabilize your approach and slow your airspeed effectively."
+    },
+    {
+        "prompt": "Pilot: I'm not sure I followed the fuel pump procedure correctly during engine failure. Can you repeat that step?",
+        "completion": "LLM: Sure. After leaning the mixture, turn the fuel pump on briefly and then off before attempting to crank the engine again. This sequence helps address any fuel delivery issues."
+    },
+    {
+        "prompt": "Pilot: Electrical fire—if I detect a smell when turning systems back on, what should I do?",
+        "completion": "LLM: If you notice an unusual smell while testing the standby battery, master, or avionics, shut the system off immediately and do not attempt to power it on again. Land at the nearest airport and have maintenance inspect the system."
+    },
+    {
+        "prompt": "Pilot: I'm on final for an emergency landing without power. Confirm my actions: full flaps, mixture idle, doors unlatch, then heavy braking?",
+        "completion": "LLM: Correct. On final, deploy full flaps (if possible), set the mixture to idle, turn off standby and master, disable magnetos, unlatch the doors, and upon touchdown, apply heavy braking."
+    },
+    {
+        "prompt": "Pilot: There's a wing fire. Should I immediately adjust the selector or first turn off the lights?",
+        "completion": "LLM: Immediately turn off all external lights and pitot heat, then adjust the selector to the side away from the fire. This sequence minimizes additional heat and directs fuel away from the affected area."
+    },
+    {
+        "prompt": "Pilot: Engine failure—how do I know if the enriched mixture is working?",
+        "completion": "LLM: When you crank the engine with the enriched mixture, listen and watch for any sign of improved engine performance. If the engine starts or shows signs of responsiveness, that indicates the enriched mixture is having a positive effect."
+    },
+    {
+        "prompt": "Pilot: I'm not clear on the radio procedure after a failed engine restart. Can you repeat it?",
+        "completion": "LLM: Certainly. If the engine fails to restart, declare an emergency by activating the ELT, setting the transponder to 7700, and pressing and holding the radio switch to set COM to 121.5. Then clearly state: “Mayday, mayday, [who] [where] emergency landing [# of passengers].”"
+    },
+    {
+        "prompt": "Pilot: Engine fire on ground—what if I can't get the engine to maintain 1800 RPM?",
+        "completion": "LLM: If the engine won't maintain 1800 RPM, do not delay shutting it down. Proceed to immediately turn off the engine, then follow the checklist for extinguishing the fire and evacuating passengers."
+    },
+    {
+        "prompt": "Pilot: During an engine failure, how do I know if I should switch from trying to restart to declaring an emergency?",
+        "completion": "LLM: If you've completed all steps of the engine checklist (selector, shutoff, throttle, mixture, fuel pump, crank, and magnetos) and there's still no restart, then it's time to declare an emergency without further delay."
+    },
+    {
+        "prompt": "Pilot: Wing fire detected—how do I know if my sideslip is effective?",
+        "completion": "LLM: An effective sideslip will cause the fire to visibly shift away from the fuel tank and cabin. Monitor your airspeed to ensure you remain below 160 knots while executing the maneuver."
+    },
+    {
+        "prompt": "Pilot: I'm preparing for a precautionary landing with power. Should I monitor my airspeed closely?",
+        "completion": "LLM: Absolutely. Maintain an airspeed of about 65 knots while using flaps and 70 knots without. Constant monitoring is key to a smooth landing approach."
+    },
+    {
+        "prompt": "Pilot: After extinguishing an electrical fire, what's my next immediate action?",
+        "completion": "LLM: Once the electrical fire is out and systems have been cautiously reactivated, immediately prepare to land at the nearest airport while keeping a close watch on all systems for any further anomalies."
+    },
+    {
+        "prompt": "Pilot: Engine failure—should I adjust my flaps before or after declaring an emergency?",
+        "completion": "LLM: First, attempt the engine checklist with flaps set for best glide. If the engine still won't restart, then declare an emergency and continue with the landing configuration as outlined in your emergency checklist."
+    },
+    {
+        "prompt": "Pilot: I'm about to contact ATC after an engine failure. What details should I include?",
+        "completion": "LLM: Include your situation (engine failure), your current position, altitude, and the number of passengers onboard. For example: “Mayday, mayday, engine failure at [location], altitude [x], [number] of passengers, emergency landing requested.”"
+    },
+    {
+        "prompt": "Pilot: Precautionary landing with power—do I need to adjust the master switch on final?",
+        "completion": "LLM: Yes. On final for a precautionary landing with power, after deploying full flaps, turn off the standby and master switches, and disable the magnetos before touchdown."
+    },
+    {
+        "prompt": "Pilot: Engine failure—should I lean the mixture before or after checking the fuel pump?",
+        "completion": "LLM: After trimming for best glide, set the throttle to one-quarter power and then lean the mixture. Once that's done, toggle the fuel pump on briefly then off before attempting an engine restart."
+    },
+    {
+        "prompt": "Pilot: I need to repeat the engine failure checklist slowly. Can you walk me through it step-by-step?",
+        "completion": "LLM: Certainly. First, trim the nose up twice to reach 68 knots. Next, look outside for a large, flat, yellow field free of obstacles. Then, cycle through the engine checklist: move the selector left, right, and both; shift the shutoff to in; set the throttle to ¼; lean the mixture; turn the fuel pump on briefly then off; crank the engine with enriched mixture; and finally, test the magnetos by switching left, right, then both. If the engine restarts, proceed to land at the nearest airport; if not, declare an emergency."
+    },
+    {
+        "prompt": "Pilot: Engine fire in flight—do I need to change my approach if I can't deploy flaps?",
+        "completion": "LLM: If you're unable to deploy flaps, maintain a controlled airspeed below 160 knots and prepare for an engine-out landing. Focus on keeping the aircraft stable and follow the rest of the emergency checklist."
+    },
+    {
+        "prompt": "Pilot: There's a cabin fire. Should I shut off the engine immediately?",
+        "completion": "LLM: For a cabin fire, first shut off the standby battery and master switch, then disable vents, cabin heat, and cabin air before activating the fire extinguisher. Only after the fire is fully out do you proceed with landing procedures."
+    },
+    {
+        "prompt": "Pilot: Electrical fire—if I can't determine which switch is causing the issue, what's my best move?",
+        "completion": "LLM: In that case, shut down all systems by turning off the standby battery, master switch, and all avionics. Then, use your fire extinguisher on any visible flames. After confirming the fire is out, cautiously attempt to power systems one by one, and plan to land at the nearest airport."
+    },
+    {
+        "prompt": "Pilot: I'm having issues with the magnetos during engine failure. Should I try both simultaneously?",
+        "completion": "LLM: No, cycle them individually: first try left, then right, then both. This method helps isolate any issues with a single magneto before you decide to declare an emergency."
+    },
+    {
+        "prompt": "Pilot: Engine failure—how critical is it to adjust the throttle exactly to ¼ power?",
+        "completion": "LLM: It's important to set the throttle around ¼ power during your checklist. This helps determine if a brief power boost can aid in restarting the engine without causing further damage."
+    },
+    {
+        "prompt": "Pilot: I'm executing an emergency landing without power. Confirm: secure seats, 65 knots with flaps, full flaps on final, mixture idle, standby/master/magnetos off, doors unlatch, heavy braking.",
+        "completion": "LLM: That's correct. Follow that sequence meticulously to ensure a controlled landing."
+    },
+    {
+        "prompt": "Pilot: During an engine fire, when should I open the doors?",
+        "completion": "LLM: Open the doors before landing, after you've secured the aircraft and set your approach. This ensures a swift evacuation if needed upon touchdown."
+    },
+    {
+        "prompt": "Pilot: Wing fire—do I need to change my radio frequency?",
+        "completion": "LLM: No, focus on extinguishing the fire and executing a sideslip. Continue monitoring your systems and prepare for a precautionary landing with power."
+    },
+    {
+        "prompt": "Pilot: Engine failure checklist—do I need to adjust the mixture again if the engine begins to sputter?",
+        "completion": "LLM: Yes, if the engine begins to sputter during your restart attempt, enrich the mixture slightly while cranking again. Monitor for any signs of recovery and adjust accordingly."
+    },
+    {
+        "prompt": "Pilot: I'm having trouble with the fuel pump step in the engine failure checklist. Can you repeat it?",
+        "completion": "LLM: Of course. After leaning the mixture, turn the fuel pump on briefly, then turn it off before you crank the engine again with the enriched mixture."
+    }
+]

@@ -1,0 +1,114 @@
+{
+    "Cessna 172 Emergency Communication Scenarios": [
+        {
+            "Scenario": "Engine Fire (Panicked Pilot)",
+            "Dialogue": [
+                {
+                    "Pilot": "The engine is on fire! What do I do?"
+                },
+                {
+                    "ATC/Co-Pilot": "Stay calm. I'll guide you through this step by step. Take a deep breath."
+                },
+                {
+                    "Pilot": "Okay, I\u2019m listening."
+                },
+                {
+                    "ATC/Co-Pilot": "First, set the mixture to idle cutoff. Do you see the red lever?"
+                },
+                {
+                    "Pilot": "Got it, adjusting now."
+                },
+                {
+                    "ATC/Co-Pilot": "Good job. Now pull out the fuel shutoff valve. That\u2019s the black knob."
+                },
+                {
+                    "Pilot": "Understood, done. What\u2019s next?"
+                },
+                {
+                    "ATC/Co-Pilot": "Great. Now check your airspeed\u2014keep it below 160 knots. What\u2019s your current speed?"
+                }
+            ]
+        },
+        {
+            "Scenario": "Engine Fire (Experienced Pilot)",
+            "Dialogue": [
+                {
+                    "Pilot": "Right engine fire."
+                },
+                {
+                    "ATC/Co-Pilot": "Roger. Mixture to idle cutoff, fuel shutoff engaged. Airspeed?"
+                },
+                {
+                    "Pilot": "Holding at 150 knots. Searching for a landing site."
+                },
+                {
+                    "ATC/Co-Pilot": "Copy that. There\u2019s an open field at your 2 o\u2019clock. Prepare for a power-off landing checklist."
+                }
+            ]
+        },
+        {
+            "Scenario": "Electrical Fire (Night Flight)",
+            "Dialogue": [
+                {
+                    "Pilot": "I smell something burning\u2014it might be an electrical issue."
+                },
+                {
+                    "ATC/Co-Pilot": "Understood. Check all switches for overheating, but don\u2019t touch them directly."
+                },
+                {
+                    "Pilot": "It\u2019s hard to see clearly..."
+                },
+                {
+                    "ATC/Co-Pilot": "Turn on the overhead light. After a quick check, we\u2019ll shut down all power. Ready?"
+                },
+                {
+                    "Pilot": "Light on, I can see now."
+                },
+                {
+                    "ATC/Co-Pilot": "Good. Let\u2019s go step by step:"
+                },
+                {
+                    "ATC/Co-Pilot": "1. Turn off the standby battery."
+                },
+                {
+                    "ATC/Co-Pilot": "2. Shut down the master switch."
+                },
+                {
+                    "ATC/Co-Pilot": "3. Disable all avionics."
+                },
+                {
+                    "ATC/Co-Pilot": "Confirm each step as you complete it."
+                }
+            ]
+        },
+        {
+            "Scenario": "Wing Fire (Novice Pilot)",
+            "Dialogue": [
+                {
+                    "Pilot": "The left wing is smoking! Oh no!"
+                },
+                {
+                    "ATC/Co-Pilot": "It\u2019s okay. We\u2019ll handle this together. First, switch the fuel tank selector to the right side."
+                },
+                {
+                    "Pilot": "Switched to the right. Now what?"
+                },
+                {
+                    "ATC/Co-Pilot": "Good. Now turn off the following electrical systems to prevent fire spread:"
+                },
+                {
+                    "ATC/Co-Pilot": "- Navigation lights"
+                },
+                {
+                    "ATC/Co-Pilot": "- Strobe lights"
+                },
+                {
+                    "ATC/Co-Pilot": "- Landing and taxi lights"
+                },
+                {
+                    "ATC/Co-Pilot": "Tell me where each switch is, and I\u2019ll confirm."
+                }
+            ]
+        }
+    ],
+}

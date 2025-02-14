@@ -1,0 +1,255 @@
+[
+  {
+    "conversation": [
+      {
+        "role": "Pilot",
+        "text": "Engine failure! What's my first step?"
+      },
+      {
+        "role": "LLM",
+        "text": "Roger. First, trim the nose up twice to achieve 68 knots—the best glide speed. Then scan for a large, flat, yellow field free of obstructions."
+      },
+      {
+        "role": "Pilot",
+        "text": "Okay, I've trimmed and found a field. What's next with the engine checklist?"
+      },
+      {
+        "role": "LLM",
+        "text": "Next, cycle the engine selector: try left, then right, then both. Move the shutoff to the in position, set throttle to ¼ power, and lean the mixture. Then turn the fuel pump on briefly and off before cranking the engine with an enriched mixture. Finally, test the magnetos one at a time."
+      },
+      {
+        "role": "Pilot",
+        "text": "Understood. And if the engine still doesn't restart?"
+      },
+      {
+        "role": "LLM",
+        "text": "If the engine fails to restart, immediately declare an emergency: activate the ELT, set your transponder to 7700, press and hold the radio switch to set COM to 121.5, and announce: 'Mayday, mayday, [who] [where] emergency landing [# of passengers].'"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "role": "Pilot",
+        "text": "LLM, we have an engine fire in flight. What should I do?"
+      },
+      {
+        "role": "LLM",
+        "text": "Immediately, set the mixture to idle and move the engine shutoff out to cut off fuel. Keep your airspeed below 160 knots."
+      },
+      {
+        "role": "Pilot",
+        "text": "I've done that. Should I deploy my flaps now?"
+      },
+      {
+        "role": "LLM",
+        "text": "If conditions permit, deploy flaps to aid in your approach. Also, secure the cabin and prepare for an emergency landing. Open the doors before touchdown and be ready for heavy braking."
+      },
+      {
+        "role": "Pilot",
+        "text": "What if the engine restarts after I cut fuel?"
+      },
+      {
+        "role": "LLM",
+        "text": "If the engine restarts, maintain control and continue your approach to the nearest airport. However, if it fails to restart, remain focused on the emergency landing procedures."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "role": "Pilot",
+        "text": "There's a wing fire detected during flight. What's my priority?"
+      },
+      {
+        "role": "LLM",
+        "text": "First, turn the engine selector to the side not affected by the fire. Then, immediately turn off all external lights including nav, strobe, taxi, landing, and also the pitot heat."
+      },
+      {
+        "role": "Pilot",
+        "text": "Alright, I've turned off the lights. How do I manage the wingside fire?"
+      },
+      {
+        "role": "LLM",
+        "text": "Execute a sideslip maneuver by banking toward the affected wing and applying opposite rudder. This will help move the fire away from the fuel tank and cabin. Keep your airspeed below 160 knots."
+      },
+      {
+        "role": "Pilot",
+        "text": "After the sideslip, how should I prepare for landing?"
+      },
+      {
+        "role": "LLM",
+        "text": "Set up for a precautionary landing with power: secure all seats, fasten seat belts, and fly over a preselected field with 20° flaps at about 65 knots. On final, deploy full flaps if possible, then turn off standby and master switches, and unlatch the doors for touchdown."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "role": "Pilot",
+        "text": "I'm experiencing an engine fire on the ground. What's my immediate action?"
+      },
+      {
+        "role": "LLM",
+        "text": "Immediately continue cranking the magnetos. If the engine restarts, maintain about 1800 RPM for a few minutes before shutting it down to inspect for damage."
+      },
+      {
+        "role": "Pilot",
+        "text": "And if it doesn't restart?"
+      },
+      {
+        "role": "LLM",
+        "text": "If the engine doesn't restart, set the throttle to full, lean the mixture to idle, continue cranking the magnetos, then move the shutoff out, turn off the fuel pump, magnetos, standby battery, and master. Finally, retrieve your fire extinguisher and evacuate any passengers before extinguishing the fire."
+      },
+      {
+        "role": "Pilot",
+        "text": "Should I attempt a restart if the engine seems unstable?"
+      },
+      {
+        "role": "LLM",
+        "text": "No. If the engine is unstable, do not attempt further restarts. Focus on shutting everything down and ensuring the safety of everyone on board."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "role": "Pilot",
+        "text": "LLM, I'm preparing for an emergency landing without power. What's my checklist on approach?"
+      },
+      {
+        "role": "LLM",
+        "text": "First, ensure you're on standby and that all seats are secured with seat belts fastened. Maintain an airspeed of 65 knots with flaps (or 70 knots without flaps)."
+      },
+      {
+        "role": "Pilot",
+        "text": "I'm at the proper speed. What do I do on final approach?"
+      },
+      {
+        "role": "LLM",
+        "text": "On final, deploy full flaps if possible, move the engine shutoff out, set the mixture to idle, then turn off standby and master switches, and disable the magnetos. Unlatch the doors in preparation for landing, and apply heavy braking upon touchdown."
+      },
+      {
+        "role": "Pilot",
+        "text": "Got it. Is there anything else I should monitor during this process?"
+      },
+      {
+        "role": "LLM",
+        "text": "Keep a close eye on your airspeed and altitude. If any issues arise, adjust immediately and communicate your situation to ATC."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "role": "Pilot",
+        "text": "I have an electrical fire onboard. What's the first thing I should do?"
+      },
+      {
+        "role": "LLM",
+        "text": "Immediately check if any switch is already off. Then, turn off the standby battery, master switch, and avionics, followed by shutting off all other switches."
+      },
+      {
+        "role": "Pilot",
+        "text": "Alright, I've turned off the main switches. What about if I see flames?"
+      },
+      {
+        "role": "LLM",
+        "text": "If you see flames, close all vents, cabin heat, and cabin air to contain the spread, and then activate your fire extinguisher. Once the fire is completely out, reopen the vents and carefully power systems back up one at a time."
+      },
+      {
+        "role": "Pilot",
+        "text": "After reactivating systems, should I still land immediately?"
+      },
+      {
+        "role": "LLM",
+        "text": "Yes. Land at the nearest airport as soon as it's safe to do so, and notify ATC of your situation."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "role": "Pilot",
+        "text": "There's a cabin fire. What are my immediate actions?"
+      },
+      {
+        "role": "LLM",
+        "text": "Immediately turn off the standby battery and master switch, and shut off the vents, cabin heat, and cabin air. Then, activate the fire extinguisher."
+      },
+      {
+        "role": "Pilot",
+        "text": "I've extinguished the fire. Do I reopen the vents now?"
+      },
+      {
+        "role": "LLM",
+        "text": "Yes, once you're sure the fire is completely out, reopen the vents, cabin heat, and cabin air. Then, prepare for a precautionary landing with power."
+      },
+      {
+        "role": "Pilot",
+        "text": "What's the landing procedure with power in this case?"
+      },
+      {
+        "role": "LLM",
+        "text": "Secure all seats, ensure seat belts are fastened, and fly over a chosen field with 20° flaps at 65 knots. On final, deploy full flaps, then turn off standby and master switches, unlatch the doors, set the mixture to idle, disable the magnetos, and apply heavy braking on touchdown."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "role": "Pilot",
+        "text": "LLM, I'm having trouble with my magnetos during an engine failure restart attempt. What should I do?"
+      },
+      {
+        "role": "LLM",
+        "text": "Cycle the magnetos individually—first try the left, then the right, and finally both together. This helps you isolate if one magneto is failing."
+      },
+      {
+        "role": "Pilot",
+        "text": "I tried that, but the engine still isn't restarting. Should I try any further adjustments?"
+      },
+      {
+        "role": "LLM",
+        "text": "If the engine remains unresponsive after testing the magnetos, immediately declare an emergency. Activate your ELT, set your transponder to 7700, and use the radio to announce your situation."
+      },
+      {
+        "role": "Pilot",
+        "text": "Got it. I'll prepare my emergency call. Anything else I should do while waiting for ATC?"
+      },
+      {
+        "role": "LLM",
+        "text": "Focus on flying the aircraft, maintain your glide speed, and continuously scan for a safe landing field. Keep calm and follow the checklist precisely."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "role": "Pilot",
+        "text": "I'm setting up for a precautionary landing with power due to an engine failure. What should my approach speed be?"
+      },
+      {
+        "role": "LLM",
+        "text": "Maintain an airspeed of about 65 knots if you're using flaps, or 70 knots if you're not. This gives you the best control during your approach."
+      },
+      {
+        "role": "Pilot",
+        "text": "And what about the flaps during the final approach?"
+      },
+      {
+        "role": "LLM",
+        "text": "Begin with 20° flaps over the selected field, then deploy full flaps on final if conditions allow. This helps stabilize your approach and reduces your speed safely."
+      },
+      {
+        "role": "Pilot",
+        "text": "After final, what systems should I shut down before touchdown?"
+      },
+      {
+        "role": "LLM",
+        "text": "On final, set the mixture to idle, turn off standby and master switches, disable the magnetos, and unlatch the doors. Once you touchdown, apply heavy braking immediately."
+      }
+    ]
+  }
+]
+

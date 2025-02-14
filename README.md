@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="Logo" src="assets/title.png" height="100" style="vertical-align: middle;">
+    <img alt="Logo" src="assets/title.png" height="150" style="vertical-align: middle;">
   </picture>
 </p>
 
@@ -51,6 +51,9 @@ You can choose either give vioce input to simulate the flying situation or text 
 
 We also include a demo here. For display, we use text input. 
 ![Demo](./assets/demo.gif)
+
+### Dataset Construction (NEW)
+We provide more data in `/LLM_experiment/data`, those data are better quality and aligned with pilot condition.
 
 ### Run Locally
 To run our current LLM related models and experiments, go to `LLM_experiment` folder and run the set up code to install neccessary environment and paste your `your_openai_api_key` in the code to run the Openai api.
