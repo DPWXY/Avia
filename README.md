@@ -1,4 +1,5 @@
 # Avia
+![My Image](./assets/logo.jpeg)
 ## Project Idea
 Avia is an AI-powered voice assistant designed to revolutionize flight training.  
 It provides:  
@@ -61,6 +62,25 @@ The App for our project is in `App` folder. Clone this repository and open the c
         <th>Contribution</th>
     </tr>
     <tr>
+        <td colspan="2;">Sprint 1</td>
+    </tr>
+    <tr>
+        <td>Rana Taki</td>
+        <td>Designed and developed the UI/UX for the Avia mobile application, ensuring an intuitive and user-friend
+ly interface.<br>
+Built the mobile app prototype and led initial testing to validate core functionalities.</td>
+    </tr>
+    <tr>
+        <td>Xiaoyue Wang</td>
+        <td>Developed advanced LLM models (with/without fine-tuning) tailored to aviation-specific contexts.<br>
+Implemented speech-to-text and text-to-speech functionalities for real-time voice-guided assistance</td>
+    </tr>
+    <tr>
+        <td>Yiguo Zheng</td>
+        <td>Conducted market research to identify challenges in pilot training.<br>
+Defined the problem statement, proposed solutions, and validated features through user interviews.</td>
+    </tr>
+    <tr>
         <td colspan="2;">Sprint 2</td>
     </tr>
     <tr>
@@ -71,7 +91,8 @@ Led mobile app updates and incorporated feedback from early testing.</td>
     <tr>
         <td>Xiaoyue Wang</td>
         <td>Enhanced LLM adaptability to process fragmented commands.<br>
-Optimized the speech-to-text pipeline for faster response times in high-noise conditions.</td>
+Optimized the speech-to-text pipeline for faster response times in high-noise conditions.<br>
+Buit LLM demo website </td>
     </tr>
     <tr>
         <td>Yiguo Zheng</td>
