@@ -92,8 +92,7 @@ The App for our project is in `App` folder. Clone this repository and open the c
     </tr>
     <tr>
         <td>Rana Taki</td>
-        <td>Designed and developed the UI/UX for the Avia mobile application, ensuring an intuitive and user-friend
-ly interface.<br>
+        <td>Designed and developed the UI/UX for the Avia mobile application, ensuring an intuitive and user-friendly interface.<br>
 Built the mobile app prototype and led initial testing to validate core functionalities.</td>
     </tr>
     <tr>
