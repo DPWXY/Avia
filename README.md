@@ -104,7 +104,7 @@ Implemented speech-to-text and text-to-speech functionalities for real-time voic
     <tr>
         <td>Yiguo Zheng</td>
         <td>Conducted market research to identify challenges in pilot training.<br>
-Defined the problem statement, proposed solutions, and validated features through user interviews.</td>
+Defined the problem statement, proposed solutions, and validated features through user interviews. Website building.</td>
     </tr>
     <tr>
         <td colspan="2;">Sprint 2</td>
