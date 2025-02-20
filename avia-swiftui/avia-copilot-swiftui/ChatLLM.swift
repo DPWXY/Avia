@@ -1,3 +1,10 @@
+//
+//  ChatLLM.swift
+//  avia-copilot-swiftui
+//
+//  Created by Xiaoyue Wang on 2/19/25.
+//
+
 import SwiftUI
 
 struct ChatView: View {
@@ -21,137 +28,151 @@ struct ChatView: View {
     ]
     
     @State private var newMessageText: String = ""
+    @State private var isRecording: Bool = false
     
     var body: some View {
         NavigationView {
-            VStack {
-                // MARK: - Header
-                VStack(spacing: 4) {
-                    Text("You have no notifications at this time\nthank you")
-                        .font(.subheadline)
-                        .foregroundColor(.gray)
-                        .multilineTextAlignment(.center)
-                }
-                
-                // MARK: - Microphone
-                Button(action: {
-                    // You could trigger recording or any action here.
-                }) {
-                    ZStack {
-                        Circle()
-                            .fill(
-                                LinearGradient(
-                                    gradient: Gradient(colors: [Color.blue, Color.purple]),
-                                    startPoint: .topLeading,
-                                    endPoint: .bottomTrailing
-                                )
-                            )
-                            .frame(width: 100, height: 100)
-                        
-                        Image("mic")
-                            .font(.system(size: 30))
-                            .foregroundColor(.white)
+            ZStack {
+                VStack {
+                    // MARK: - Header
+                    VStack(spacing: 4) {
+                        Text("You have no notifications at this time\nthank you")
+                            .font(.subheadline)
+                            .foregroundColor(.gray)
+                            .multilineTextAlignment(.center)
                     }
-                }
-                .padding(.vertical, 16)
-                
-                // MARK: - Chat ScrollView
-                ScrollView {
-                    VStack(spacing: 12) {
-                        ForEach(messages) { msg in
-                            if msg.isSender {
-                                // Sender (User) bubble - Blue, aligned right
-                                HStack {
-                                    Spacer(minLength: 50)
-                                    VStack(alignment: .trailing, spacing: 4) {
-                                        Text(msg.text)
-                                            .foregroundColor(.white)
-                                            .padding()
-                                            .background(Color.chat)
-                                            .cornerRadius(8)
-                                        
-                                        Text(msg.timeStamp)
-                                            .font(.caption2)
-                                            .foregroundColor(.gray)
-                                    }
-                                }
-                                .padding(.horizontal)
-                                .padding(.vertical, 10)
-                            } else {
-                                // Receiver (Bot) bubble - Gray, aligned left with avatar
-                                HStack(alignment: .bottom, spacing: 8) {
-                                    VStack {
-                                        Image("logo")
-                                            .resizable()
-                                            .scaledToFit()
-                                            .frame(width: 40, height: 40)
-                                            .foregroundColor(.black)
-                                            .background(Color.white)
-                                            .clipShape(Circle())
-
-                                        Text(msg.timeStamp)
-                                            .font(.caption2)
-                                            .foregroundColor(.gray)
-                                    }
-                                    
-                                    VStack(alignment: .leading, spacing: 8) {
-                                        Text(msg.text)
-                                            .foregroundColor(.black)
-                                            .padding()
-                                            .background(Color.gray.opacity(0.2))
-                                            .cornerRadius(8)
-                                    }
-                                    
-                                    Spacer(minLength: 50)
-                                }
-
-                                .padding(.horizontal)
-                            }
+                    
+                    // MARK: - Microphone
+                    Button(action: {
+                        // Could trigger recording or any action here.
+                        withAnimation {
+                            isRecording.toggle()
+                        }
+                        print("isActive is now \(isRecording)")
+                    }) {
+                        ZStack {
+                            Circle()
+                                .fill(
+                                    LinearGradient(
+                                        gradient: Gradient(colors: [Color.blue, Color.purple]),
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    )
+                                )
+                                .frame(width: 100, height: 100)
+                            
+                            Image("mic")
+                                .font(.system(size: 30))
+                                .foregroundColor(.white)
                         }
                     }
-                    .padding(.top, 8)
-                }
-                
-                // MARK: - Bottom bar
-                HStack {
-                    // Attachment Button
-                    Button(action: {
-                        // Handle attachment action
-                    }) {
-                        Image(systemName: "paperclip")
-                            .foregroundColor(.gray)
-                    }
-                    .padding(.leading, 10)
+                    .padding(.vertical, 16)
+                    .zIndex(2)
                     
-                    TextField("Write your message", text: $newMessageText)
-                        .padding(.horizontal, 12)
-                        .frame(height: 45)
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 10)
-                                .stroke(Color.chat, lineWidth: 2)
-                        )
-                    
-                    // Send Button
-                    Button(action: {
-                        // Send the message
-                        guard !newMessageText.isEmpty else { return }
-                        let newMsg = Message(text: newMessageText,
-                                             timeStamp: currentTimeStamp(),
-                                             isSender: true)
-                        messages.append(newMsg)
-                        newMessageText = ""
-                    }) {
-                        Image(systemName: "paperplane.fill")
-                            .foregroundColor(.white)
-                            .padding(12)
-                            .background(Color.chat.opacity(0.9)) // Dark blue background
-                            .clipShape(Circle())
+                    // MARK: - Chat ScrollView
+                    ScrollView {
+                        VStack(spacing: 12) {
+                            ForEach(messages) { msg in
+                                if msg.isSender {
+                                    HStack {
+                                        Spacer(minLength: 50)
+                                        VStack(alignment: .trailing, spacing: 4) {
+                                            Text(msg.text)
+                                                .foregroundColor(.white)
+                                                .padding()
+                                                .background(Color.chat)
+                                                .cornerRadius(8)
+                                            
+                                            Text(msg.timeStamp)
+                                                .font(.caption2)
+                                                .foregroundColor(.gray)
+                                        }
+                                    }
+                                    .padding(.horizontal)
+                                    .padding(.vertical, 10)
+                                } else {
+                                    HStack(alignment: .bottom, spacing: 8) {
+                                        VStack {
+                                            Image("logo")
+                                                .resizable()
+                                                .scaledToFit()
+                                                .frame(width: 40, height: 40)
+                                                .foregroundColor(.black)
+                                                .background(Color.white)
+                                                .clipShape(Circle())
+                                            
+                                            Text(msg.timeStamp)
+                                                .font(.caption2)
+                                                .foregroundColor(.gray)
+                                        }
+                                        
+                                        VStack(alignment: .leading, spacing: 8) {
+                                            Text(msg.text)
+                                                .foregroundColor(.black)
+                                                .padding()
+                                                .background(Color.gray.opacity(0.2))
+                                                .cornerRadius(8)
+                                        }
+                                        
+                                        Spacer(minLength: 50)
+                                    }
+                                    
+                                    .padding(.horizontal)
+                                }
+                            }
+                        }
+                        .padding(.top, 8)
                     }
+                    
+                    // MARK: - Bottom bar
+                    HStack {
+                        // Attachment Button
+                        Button(action: {
+                            // Handle attachment action
+                        }) {
+                            Image(systemName: "paperclip")
+                                .foregroundColor(.gray)
+                        }
+                        .padding(.leading, 10)
+                        
+                        TextField("Write your message", text: $newMessageText)
+                            .padding(.horizontal, 12)
+                            .frame(height: 45)
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 10)
+                                    .stroke(Color.chat, lineWidth: 2)
+                            )
+                        
+                        // Send Button
+                        Button(action: {
+                            // Send the message
+                            guard !newMessageText.isEmpty else { return }
+                            let newMsg = Message(text: newMessageText,
+                                                 timeStamp: currentTimeStamp(),
+                                                 isSender: true)
+                            messages.append(newMsg)
+                            newMessageText = ""
+                        }) {
+                            Image(systemName: "paperplane.fill")
+                                .foregroundColor(.white)
+                                .padding(12)
+                                .background(Color.chat.opacity(0.9))
+                                .clipShape(Circle())
+                        }
+                    }
+                    .padding(.horizontal)
+                    .padding(.vertical, 8)
+                    .background(Color.white)
+                    .shadow(radius: 3)
                 }
-                .padding(.horizontal)
-                .padding(.vertical, 8)
-                .background(Color.white)
-                .shadow(radius: 3)
+                .zIndex(2)
+                // MARK: - Gray overlay if isRecording
+                if isRecording {
+                    Color.black
+                        .opacity(0.4)
+                        .edgesIgnoringSafeArea(.all)
+                        .zIndex(1)
+                }
             }
             .navigationBarTitle("Avia copilot", displayMode: .inline)
             .navigationBarItems(
