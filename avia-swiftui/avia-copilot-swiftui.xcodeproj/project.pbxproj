@@ -1,0 +1,601 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A1F758252D66F8D2001C77DC /* ChatLLM.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F758242D66F8C9001C77DC /* ChatLLM.swift */; };
+		D63AD7DA2D6457B5003DB12D /* avia_copilot_swiftuiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63AD7D92D6457B5003DB12D /* avia_copilot_swiftuiApp.swift */; };
+		D63AD7DC2D6457B5003DB12D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63AD7DB2D6457B5003DB12D /* ContentView.swift */; };
+		D63AD7DE2D6457B5003DB12D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D63AD7DD2D6457B5003DB12D /* Assets.xcassets */; };
+		D63AD7E12D6457B5003DB12D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D63AD7E02D6457B5003DB12D /* Preview Assets.xcassets */; };
+		D63AD7EB2D6457B6003DB12D /* avia_copilot_swiftuiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63AD7EA2D6457B6003DB12D /* avia_copilot_swiftuiTests.swift */; };
+		D63AD7F52D6457B6003DB12D /* avia_copilot_swiftuiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63AD7F42D6457B6003DB12D /* avia_copilot_swiftuiUITests.swift */; };
+		D63AD7F72D6457B6003DB12D /* avia_copilot_swiftuiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63AD7F62D6457B6003DB12D /* avia_copilot_swiftuiUITestsLaunchTests.swift */; };
+		D63AD8082D646565003DB12D /* AviaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63AD8072D646565003DB12D /* AviaView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D63AD7E72D6457B6003DB12D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D63AD7CE2D6457B5003DB12D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D63AD7D52D6457B5003DB12D;
+			remoteInfo = "avia-copilot-swiftui";
+		};
+		D63AD7F12D6457B6003DB12D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D63AD7CE2D6457B5003DB12D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D63AD7D52D6457B5003DB12D;
+			remoteInfo = "avia-copilot-swiftui";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A1F758242D66F8C9001C77DC /* ChatLLM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatLLM.swift; sourceTree = "<group>"; };
+		D63AD7D62D6457B5003DB12D /* avia-copilot-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "avia-copilot-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D63AD7D92D6457B5003DB12D /* avia_copilot_swiftuiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avia_copilot_swiftuiApp.swift; sourceTree = "<group>"; };
+		D63AD7DB2D6457B5003DB12D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D63AD7DD2D6457B5003DB12D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D63AD7E02D6457B5003DB12D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D63AD7E62D6457B6003DB12D /* avia-copilot-swiftuiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "avia-copilot-swiftuiTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D63AD7EA2D6457B6003DB12D /* avia_copilot_swiftuiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avia_copilot_swiftuiTests.swift; sourceTree = "<group>"; };
+		D63AD7F02D6457B6003DB12D /* avia-copilot-swiftuiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "avia-copilot-swiftuiUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D63AD7F42D6457B6003DB12D /* avia_copilot_swiftuiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avia_copilot_swiftuiUITests.swift; sourceTree = "<group>"; };
+		D63AD7F62D6457B6003DB12D /* avia_copilot_swiftuiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avia_copilot_swiftuiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D63AD8072D646565003DB12D /* AviaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AviaView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D63AD7D32D6457B5003DB12D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D63AD7E32D6457B6003DB12D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D63AD7ED2D6457B6003DB12D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D63AD7CD2D6457B5003DB12D = {
+			isa = PBXGroup;
+			children = (
+				D63AD8072D646565003DB12D /* AviaView.swift */,
+				D63AD7D82D6457B5003DB12D /* avia-copilot-swiftui */,
+				D63AD7E92D6457B6003DB12D /* avia-copilot-swiftuiTests */,
+				D63AD7F32D6457B6003DB12D /* avia-copilot-swiftuiUITests */,
+				D63AD7D72D6457B5003DB12D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D63AD7D72D6457B5003DB12D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D63AD7D62D6457B5003DB12D /* avia-copilot-swiftui.app */,
+				D63AD7E62D6457B6003DB12D /* avia-copilot-swiftuiTests.xctest */,
+				D63AD7F02D6457B6003DB12D /* avia-copilot-swiftuiUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D63AD7D82D6457B5003DB12D /* avia-copilot-swiftui */ = {
+			isa = PBXGroup;
+			children = (
+				A1F758242D66F8C9001C77DC /* ChatLLM.swift */,
+				D63AD7D92D6457B5003DB12D /* avia_copilot_swiftuiApp.swift */,
+				D63AD7DB2D6457B5003DB12D /* ContentView.swift */,
+				D63AD7DD2D6457B5003DB12D /* Assets.xcassets */,
+				D63AD7DF2D6457B5003DB12D /* Preview Content */,
+			);
+			path = "avia-copilot-swiftui";
+			sourceTree = "<group>";
+		};
+		D63AD7DF2D6457B5003DB12D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D63AD7E02D6457B5003DB12D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D63AD7E92D6457B6003DB12D /* avia-copilot-swiftuiTests */ = {
+			isa = PBXGroup;
+			children = (
+				D63AD7EA2D6457B6003DB12D /* avia_copilot_swiftuiTests.swift */,
+			);
+			path = "avia-copilot-swiftuiTests";
+			sourceTree = "<group>";
+		};
+		D63AD7F32D6457B6003DB12D /* avia-copilot-swiftuiUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D63AD7F42D6457B6003DB12D /* avia_copilot_swiftuiUITests.swift */,
+				D63AD7F62D6457B6003DB12D /* avia_copilot_swiftuiUITestsLaunchTests.swift */,
+			);
+			path = "avia-copilot-swiftuiUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D63AD7D52D6457B5003DB12D /* avia-copilot-swiftui */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D63AD7FA2D6457B6003DB12D /* Build configuration list for PBXNativeTarget "avia-copilot-swiftui" */;
+			buildPhases = (
+				D63AD7D22D6457B5003DB12D /* Sources */,
+				D63AD7D32D6457B5003DB12D /* Frameworks */,
+				D63AD7D42D6457B5003DB12D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "avia-copilot-swiftui";
+			productName = "avia-copilot-swiftui";
+			productReference = D63AD7D62D6457B5003DB12D /* avia-copilot-swiftui.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D63AD7E52D6457B6003DB12D /* avia-copilot-swiftuiTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D63AD7FD2D6457B6003DB12D /* Build configuration list for PBXNativeTarget "avia-copilot-swiftuiTests" */;
+			buildPhases = (
+				D63AD7E22D6457B6003DB12D /* Sources */,
+				D63AD7E32D6457B6003DB12D /* Frameworks */,
+				D63AD7E42D6457B6003DB12D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D63AD7E82D6457B6003DB12D /* PBXTargetDependency */,
+			);
+			name = "avia-copilot-swiftuiTests";
+			productName = "avia-copilot-swiftuiTests";
+			productReference = D63AD7E62D6457B6003DB12D /* avia-copilot-swiftuiTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D63AD7EF2D6457B6003DB12D /* avia-copilot-swiftuiUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D63AD8002D6457B6003DB12D /* Build configuration list for PBXNativeTarget "avia-copilot-swiftuiUITests" */;
+			buildPhases = (
+				D63AD7EC2D6457B6003DB12D /* Sources */,
+				D63AD7ED2D6457B6003DB12D /* Frameworks */,
+				D63AD7EE2D6457B6003DB12D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D63AD7F22D6457B6003DB12D /* PBXTargetDependency */,
+			);
+			name = "avia-copilot-swiftuiUITests";
+			productName = "avia-copilot-swiftuiUITests";
+			productReference = D63AD7F02D6457B6003DB12D /* avia-copilot-swiftuiUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D63AD7CE2D6457B5003DB12D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					D63AD7D52D6457B5003DB12D = {
+						CreatedOnToolsVersion = 15.4;
+					};
+					D63AD7E52D6457B6003DB12D = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = D63AD7D52D6457B5003DB12D;
+					};
+					D63AD7EF2D6457B6003DB12D = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = D63AD7D52D6457B5003DB12D;
+					};
+				};
+			};
+			buildConfigurationList = D63AD7D12D6457B5003DB12D /* Build configuration list for PBXProject "avia-copilot-swiftui" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D63AD7CD2D6457B5003DB12D;
+			productRefGroup = D63AD7D72D6457B5003DB12D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D63AD7D52D6457B5003DB12D /* avia-copilot-swiftui */,
+				D63AD7E52D6457B6003DB12D /* avia-copilot-swiftuiTests */,
+				D63AD7EF2D6457B6003DB12D /* avia-copilot-swiftuiUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D63AD7D42D6457B5003DB12D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D63AD7E12D6457B5003DB12D /* Preview Assets.xcassets in Resources */,
+				D63AD7DE2D6457B5003DB12D /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D63AD7E42D6457B6003DB12D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D63AD7EE2D6457B6003DB12D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D63AD7D22D6457B5003DB12D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D63AD7DC2D6457B5003DB12D /* ContentView.swift in Sources */,
+				A1F758252D66F8D2001C77DC /* ChatLLM.swift in Sources */,
+				D63AD8082D646565003DB12D /* AviaView.swift in Sources */,
+				D63AD7DA2D6457B5003DB12D /* avia_copilot_swiftuiApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D63AD7E22D6457B6003DB12D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D63AD7EB2D6457B6003DB12D /* avia_copilot_swiftuiTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D63AD7EC2D6457B6003DB12D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D63AD7F72D6457B6003DB12D /* avia_copilot_swiftuiUITestsLaunchTests.swift in Sources */,
+				D63AD7F52D6457B6003DB12D /* avia_copilot_swiftuiUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D63AD7E82D6457B6003DB12D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D63AD7D52D6457B5003DB12D /* avia-copilot-swiftui */;
+			targetProxy = D63AD7E72D6457B6003DB12D /* PBXContainerItemProxy */;
+		};
+		D63AD7F22D6457B6003DB12D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D63AD7D52D6457B5003DB12D /* avia-copilot-swiftui */;
+			targetProxy = D63AD7F12D6457B6003DB12D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D63AD7F82D6457B6003DB12D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D63AD7F92D6457B6003DB12D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D63AD7FB2D6457B6003DB12D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"avia-copilot-swiftui/Preview Content\"";
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-copilot-swiftui";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D63AD7FC2D6457B6003DB12D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"avia-copilot-swiftui/Preview Content\"";
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-copilot-swiftui";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D63AD7FE2D6457B6003DB12D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-copilot-swiftuiTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/avia-copilot-swiftui.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/avia-copilot-swiftui";
+			};
+			name = Debug;
+		};
+		D63AD7FF2D6457B6003DB12D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-copilot-swiftuiTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/avia-copilot-swiftui.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/avia-copilot-swiftui";
+			};
+			name = Release;
+		};
+		D63AD8012D6457B6003DB12D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-copilot-swiftuiUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "avia-copilot-swiftui";
+			};
+			name = Debug;
+		};
+		D63AD8022D6457B6003DB12D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-copilot-swiftuiUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "avia-copilot-swiftui";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D63AD7D12D6457B5003DB12D /* Build configuration list for PBXProject "avia-copilot-swiftui" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D63AD7F82D6457B6003DB12D /* Debug */,
+				D63AD7F92D6457B6003DB12D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D63AD7FA2D6457B6003DB12D /* Build configuration list for PBXNativeTarget "avia-copilot-swiftui" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D63AD7FB2D6457B6003DB12D /* Debug */,
+				D63AD7FC2D6457B6003DB12D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D63AD7FD2D6457B6003DB12D /* Build configuration list for PBXNativeTarget "avia-copilot-swiftuiTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D63AD7FE2D6457B6003DB12D /* Debug */,
+				D63AD7FF2D6457B6003DB12D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D63AD8002D6457B6003DB12D /* Build configuration list for PBXNativeTarget "avia-copilot-swiftuiUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D63AD8012D6457B6003DB12D /* Debug */,
+				D63AD8022D6457B6003DB12D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D63AD7CE2D6457B5003DB12D /* Project object */;
+}
