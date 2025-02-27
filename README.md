@@ -111,7 +111,8 @@ Defined the problem statement, proposed solutions, and validated features throug
     <tr>
         <td>Rana Taki</td>
         <td>Refined the UI/UX for a more seamless user experience.<br>
-Led mobile app updates and incorporated feedback from early testing.</td>
+Led mobile app updates and incorporated feedback from early testing.
+        TSST implementation on app.</td>
     </tr>
     <tr>
         <td>Xiaoyue Wang</td>
