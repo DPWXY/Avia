@@ -83,49 +83,32 @@ The App for our project is in `App` folder. Clone this repository and open the c
 
 ## Team Contribution
 <table>
-    <tr>
-        <th>Name</th>
-        <th>Contribution</th>
-    </tr>
-    <tr>
-        <td colspan="2;">Sprint 1</td>
-    </tr>
-    <tr>
-        <td>Rana Taki</td>
-        <td>Designed and developed the UI/UX for the Avia mobile application, ensuring an intuitive and user-friendly interface.<br>
-Built the mobile app prototype and led initial testing to validate core functionalities.</td>
-    </tr>
-    <tr>
-        <td>Xiaoyue Wang</td>
-        <td>Developed advanced LLM models (with/without fine-tuning) tailored to aviation-specific contexts.<br>
-Implemented speech-to-text and text-to-speech functionalities for real-time voice-guided assistance</td>
-    </tr>
-    <tr>
-        <td>Yiguo Zheng</td>
-        <td>Conducted market research to identify challenges in pilot training.<br>
-Defined the problem statement, proposed solutions, and validated features through user interviews. Website building.</td>
-    </tr>
-    <tr>
-        <td colspan="2;">Sprint 2</td>
-    </tr>
-    <tr>
-        <td>Rana Taki</td>
-        <td>Refined the UI/UX for a more seamless user experience.<br>
-Led mobile app updates and incorporated feedback from early testing.
-        TSST implementation on app.</td>
-    </tr>
-    <tr>
-        <td>Xiaoyue Wang</td>
-        <td>Enhanced LLM adaptability to process fragmented commands.<br>
-Optimized the speech-to-text pipeline for faster response times in high-noise conditions.<br>
-Buit LLM demo website </td>
-    </tr>
-    <tr>
-        <td>Yiguo Zheng</td>
-        <td>Conducted user research to analyze real-world pilot communication challenges.<br>
-Led VC applications and built pilot communities in Palo Alto.</td>
-    </tr>
+  <tr>
+    <th>Team Member</th>
+    <th>Sprint 1</th>
+    <th>Sprint 2</th>
+    <th>Sprint 3</th>
+  </tr>
+  <tr>
+    <td><b>Rana Taki</b></td>
+    <td>1. Designed and developed UI/UX for Avia mobile app.<br>2. Built the prototype.<br>3. Led initial testing.</td>
+    <td>1. Refined UI/UX.<br>2. Led mobile app updates.<br>3. Implemented TSST.</td>
+    <td>1. Architected Avia app UI/UX in Figma.<br>2. Developed functional Xcode prototype.<br>3. Tested in real flight scenario and enhanced UI based on feedback.<br>4. Reached out to Garmin engineers/vendors regarding Garmin API integration.</td>
+  </tr>
+  <tr>
+    <td><b>Xiaoyue Wang</b></td>
+    <td>1. Developed advanced LLM models for aviation.<br>2. Implemented speech-to-text and text-to-speech functionalities.</td>
+    <td>1. Optimized LLM adaptability.<br>2. Improved speech-to-text pipeline.<br>3. Built an LLM demo website.</td>
+    <td>1. Connected the pilots' profile data to AWS.<br>2. Improved aircraft adaptability to the most common and popular aircraft models in beginner pilots.<br>3. Fine-tuned models. Enhanced speech recognition for higher accuracy in-flight.</td>
+  </tr>
+  <tr>
+    <td><b>Yiguo Zheng (Zoey)</b></td>
+    <td>1. Conducted market research.<br>2. Defined the problem statement.<br>3. Proposed solutions and built the website.</td>
+    <td>1. Website refining and maintainance.<br>2. Led VC applications.<br>3. Built pilot communities.</td>
+    <td>1. Reverted to getting data from the flight simulation using SimConnect API.<br>2. Market check in airport and flying club, research on product market fit and early adopters' willingness to pay.<br>3. VC application.</td>
+  </tr>
 </table>
+
 
 
 
