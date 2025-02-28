@@ -18,6 +18,37 @@ Our goal is to:
 - Help student pilots overcome challenges like multitasking under pressure.  
 - Offer real-time guidance to enhance decision-making and safety.
 
+## Sprint 3 Updates
+
+### Core Achievements
+- Implemented **intuitive UI with engaging user experience** - Refined mobile interface for pilot-friendly interactions
+- Integrated **LLM for advanced conversational capabilities** - Enhanced AI assistant with aviation-specific knowledge
+- Connected to **AWS for scalable cloud infrastructure** - Deployed robust backend for real-time data processing
+
+### Technical Advancements
+- Trained AI model with simulator data from **Microsoft Flight Simulator SimConnect API**
+- Engineered adaptive system compatible with multiple aircraft models (**Cessna 172 & Challenger 350**)
+- Addressed **voice interrupt challenges** and reduced latency in generation process
+- Implemented comprehensive **flight parameter analysis** for real-time situational awareness
+
+### User Experience & Testing
+- Finalized **UI/UX design** for seamless pilot interaction during flight operations
+- Created **social feed interface** for pilot community sharing and engagement
+- Launched **pilot testing program** with Stanford Flying Club members
+- Differentiated product from competitors (Goose AI) with advanced real-time assistance
+
+### Partnership Progress
+- Initiated discussions with **Garmin engineers** about accessing realtime data from aircraft
+- Established framework for processing multiple flight conditions:
+  - Real-time wind speeds, turbulence, and temperature variations
+  - Pilot control inputs vs automated system responses
+  - Flight dynamics across different aircraft models
+
+### Next Steps
+1. Complete AWS setup optimization (security, deployment, backend)
+2. Expand pilot testing community and gather operational feedback
+3. Enhance AI adaptability across additional aircraft models
+4. Finalize Garmin data integration partnership for real-world testing
 
 ## Sprint 2 Updates  
 
@@ -39,7 +70,6 @@ In **Sprint 2**, we focused on refining **prompt engineering** to enhance the vo
 - Further enhance **mixed-language processing** (e.g., English + aviation terminology).  
 - Improve **stability in extreme noise conditions**.  
 - Optimize **real-time decision-making support** for pilots.  
-
 
 ## LLM Experiments
 For this folder, it contains code used to train, test, and evaluate LLM's performance on our copilot task. 
