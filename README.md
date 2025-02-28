@@ -71,9 +71,15 @@ In **Sprint 2**, we focused on refining **prompt engineering** to enhance the vo
 - Improve **stability in extreme noise conditions**.  
 - Optimize **real-time decision-making support** for pilots.  
 
+
+## App (NEW)
+Our newest version of app is in `avia-swiftui.zip`. Download the zip and open it with Xcode to see the current version of app. This version does not have Openai features plugged in. And due to some issue in aws account (we are working on to solve it), the current aws can only be plugged in locally in sandbox. In order to view our current aws data scheme, visit [Amplify Studio with our schema](https://sandbox.amplifyapp.com/schema-design/7e242067-9577-4cf9-abdc-6bcf67840983) and follow the instructions to run the aws locally. 
+
+To test on LLM with App, the previsou App version for our project is in `App` folder. Clone this repository and open the code in App folders with Xcode to run the ios App. In order to use the LLM features, you need to replace the `api-key` with your own Openai keys.
+
 ## LLM Experiments
 For this folder, it contains code used to train, test, and evaluate LLM's performance on our copilot task. 
-### Website Demo (NEW)
+### Website Demo
 We also provide website for holding our LLM demo. If you don't have access to Openai API key, you can directly try our speech to speech pipeline through the website.
 
 You can visit [the website](https://huggingface.co/spaces/DPWXY15/Avia-demo). 
@@ -82,7 +88,7 @@ You can choose either give vioce input to simulate the flying situation or text 
 We also include a demo here. For display, we use text input. 
 ![Demo](./assets/demo.gif)
 
-### Dataset Construction (NEW)
+### Dataset Construction
 We provide more data in `/LLM_experiment/data`, those data are better quality and aligned with pilot condition.
 
 ### Run Locally
@@ -107,9 +113,6 @@ If there is error on any other package installation, try:
 ```bash
 python -m pip install package_name
 ```
-
-## App
-The App for our project is in `App` folder. Clone this repository and open the code in App folders with Xcode to run the ios App. In order to use the LLM features, you need to replace the `api-key` with your own Openai keys.
 
 ## Team Contribution
 <table>
