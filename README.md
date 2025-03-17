@@ -121,27 +121,28 @@ python -m pip install package_name
     <th>Sprint 1</th>
     <th>Sprint 2</th>
     <th>Sprint 3</th>
+    <th>Sprint 4</th>
   </tr>
   <tr>
     <td><b>Rana Taki</b></td>
     <td>1. Designed and developed UI/UX for Avia mobile app.<br>2. Built the prototype.<br>3. Led initial testing.</td>
     <td>1. Refined UI/UX.<br>2. Led mobile app updates.<br>3. Implemented TSST.</td>
-    <td>1. Architected Avia app UI/UX in Figma.<br>2. Developed functional Xcode prototype.<br>3. Tested in real flight scenario and enhanced UI based on feedback.<br>4. Reached out to Garmin engineers/vendors regarding Garmin API integration.
-    </td>1. Finalized the Avia mobile app UI/UX with enhanced emergency response features.<br>2. Implemented aircraft-specific control panels for different models.<br>3. Conducted comprehensive user acceptance testing with professional pilots.<br>4. Established formal partnership with Garmin for data integration protocols.</td>
+    <td>1. Architected Avia app UI/UX in Figma.<br>2. Developed functional Xcode prototype.<br>3. Tested in real flight scenario and enhanced UI based on feedback.<br>4. Reached out to Garmin engineers/vendors regarding Garmin API integration.</td>
+    <td>1. Finalized the Avia mobile app UI/UX with enhanced emergency response features.<br>2. Implemented aircraft-specific control panels for different models.<br>3. Conducted comprehensive user acceptance testing with professional pilots.<br>4. Established formal partnership with Garmin for data integration protocols.</td>
   </tr>
   <tr>
     <td><b>Xiaoyue Wang</b></td>
     <td>1. Developed advanced LLM models for aviation.<br>2. Implemented speech-to-text and text-to-speech functionalities.</td>
     <td>1. Optimized LLM adaptability.<br>2. Improved speech-to-text pipeline.<br>3. Built an LLM demo website.</td>
-    <td>1. Connected the pilots' profile data to AWS.<br>2. Improved aircraft adaptability to the most common and popular aircraft models in beginner pilots.<br>3. Fine-tuned models. Enhanced speech recognition for higher accuracy in-flight.
-    </td>1. Completed AWS backend optimization for secure, scalable deployment.<br>2. Improved AI model response time by 40% through optimized processing.<br>3. Created adaptive learning algorithms to personalize guidance based on pilot skill level.<br>4. Integrated real-time weather data into flight assistance parameters.</td>
+    <td>1. Connected the pilots' profile data to AWS.<br>2. Improved aircraft adaptability to the most common and popular aircraft models in beginner pilots.<br>3. Fine-tuned models. Enhanced speech recognition for higher accuracy in-flight.</td>
+    <td>1. Completed AWS backend optimization for secure, scalable deployment.<br>2. Improved AI model response time by 40% through optimized processing.<br>3. Created adaptive learning algorithms to personalize guidance based on pilot skill level.<br>4. Integrated real-time weather data into flight assistance parameters.</td>
   </tr>
   <tr>
     <td><b>Yiguo Zheng (Zoey)</b></td>
     <td>1. Conducted market research.<br>2. Defined the problem statement.<br>3. Proposed solutions and built the website.</td>
     <td>1. Website refining and maintainance.<br>2. Led VC applications.<br>3. Built pilot communities.</td>
-    <td>1. Reverted to getting data from the flight simulation using SimConnect API.<br>2. Market check in airport and flying club, research on product market fit and early adopters' willingness to pay.<br>3. VC application.
-    </td>1. Prepared comprehensive investor pitch deck for VC applications.<br>2. Expanded pilot testing community to five additional flight schools.<br>3. Developed go-to-market strategy with tiered pricing model.<br>4. Created analytics dashboard to measure pilot performance improvements and product effectiveness.</td>
+    <td>1. Reverted to getting data from the flight simulation using SimConnect API.<br>2. Market check in airport and flying club, research on product market fit and early adopters' willingness to pay.<br>3. VC application.</td>
+    <td>1. Prepared comprehensive investor pitch deck for VC applications.<br>2. Expanded pilot testing community to five additional flight schools.<br>3. Developed go-to-market strategy with tiered pricing model.<br>4. Created analytics dashboard to measure pilot performance improvements and product effectiveness.</td>
   </tr>
 </table>
 
