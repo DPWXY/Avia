@@ -35,7 +35,7 @@ Our goal is to:
 ## App (NEW)
 The current app version is in `App` folder. Clone this repository and open the code in App folders with Xcode to run the ios App. In order to use the LLM features, you need to replace the `api-key` in `AviaCopilotView.swift` with your own Openai keys.
 
-If it has error in Xcode, the zip version of app is in `App/avia-app.zip`. Download the zip and open it with Xcode to see the current version of app. In order to view our current aws data scheme, visit [Amplify Studio with our schema](https://sandbox.amplifyapp.com/schema-design/7e242067-9577-4cf9-abdc-6bcf67840983) and follow the instructions to run the aws locally. If there are errors in aws packages, reference [this website](https://docs.amplify.aws/swift/start/quickstart/).  
+If it has error in Xcode, the zip version of app is in [drive](https://drive.google.com/file/d/1KmQdkG6VyQIzYTzZL-QkuTOhtRUkhXEF/view?usp=sharing). Download the zip and open it with Xcode to see the current version of app. In order to view our current aws data scheme, visit [Amplify Studio with our schema](https://sandbox.amplifyapp.com/schema-design/7e242067-9577-4cf9-abdc-6bcf67840983) and follow the instructions to run the aws locally. If there are errors in aws packages, reference [this website](https://docs.amplify.aws/swift/start/quickstart/).  
 
 We also include a demo here. 
 ![Demo](./assets/app_demo.gif)
