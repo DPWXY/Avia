@@ -25,8 +25,9 @@ python -m pip install package_name
 ```
 
 ### Fine_tuning_GPT4
-The notebook contains the code to prepare the training data following the OpenAi guidelines and fine-tune a model using the api. 
+The notebook `Fine_tuning_GPT4.ipynb` and `Fine_tuning_GPT4_for_feedback.ipynb` contains the code to prepare the training data following the OpenAi guidelines and fine-tune a model using the api. 
 In order to run the code, you need to use your own OpenAi API Key and repalce all `your_openai_api_key` in the file.
+
 ### Speech to Speech pipeline generation
 To talk to LLM and get vioce response, run
 ```bash

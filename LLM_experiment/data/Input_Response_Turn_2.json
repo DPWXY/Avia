@@ -1,0 +1,4752 @@
+[
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 36,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 72,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 108,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 144,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 180,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 216,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 252,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 288,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 324,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            }
+        ],
+        "response": "This was a perfect steep turn! Well done."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 36,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 72,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 108,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 144,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 180,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 216,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 252,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 288,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 324,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            }
+        ],
+        "response": "This was a perfect steep turn! Well done."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 40 degrees. Ensure level flight; you had a vertical speed of 100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of 100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 50 degrees. Ensure level flight; you had a vertical speed of -50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 36,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 30 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 30 degrees. Ensure level flight; you had a vertical speed of 100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 180,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 35 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 40 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 36,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 50 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 36,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 72,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 108,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 144,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 180,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 216,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 252,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 288,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 324,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            }
+        ],
+        "response": "This was a perfect steep turn! Well done."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 36,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 72,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 108,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 144,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 180,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 216,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 252,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 288,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 324,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            }
+        ],
+        "response": "This was a perfect steep turn! Well done."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 36,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 72,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 50 degrees. Ensure level flight; you had a vertical speed of 100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 36,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of -50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 36,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            }
+        ],
+        "response": "Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of -50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 30 degrees. Ensure level flight; you had a vertical speed of 100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 30 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 36,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of 100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 144,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 35 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 50 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 30 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 180,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 35 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 108,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 144,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 35 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 108,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 180,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 40 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 35 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            }
+        ],
+        "response": "Correct your bank angle to exactly 45 degrees; it was 50 degrees. Ensure level flight; you had a vertical speed of 100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 72,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 180,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 40 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 30 degrees. Ensure level flight; you had a vertical speed of -50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 35 degrees. Ensure level flight; you had a vertical speed of -50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 144,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 30 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 180,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 35 degrees. Ensure level flight; you had a vertical speed of -50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 144,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 180,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            }
+        ],
+        "response": "Correct your bank angle to exactly 45 degrees; it was 35 degrees. Ensure level flight; you had a vertical speed of -50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 50 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 36,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 72,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 108,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 144,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 180,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 216,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 252,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 288,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            },
+            {
+                "Point": 324,
+                "ASI": 90,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "centered",
+                "Bank Angle": 45,
+                "VSI": 0
+            }
+        ],
+        "response": "This was a perfect steep turn! Well done."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 72,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 30 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 180,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 36,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 108,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 252,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            }
+        ],
+        "response": "Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of 100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 144,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 216,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 324,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 60 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 50 degrees. Ensure level flight; you had a vertical speed of 50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 324,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            }
+        ],
+        "response": "Correct your bank angle to exactly 45 degrees; it was 35 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 72,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 50
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 40 degrees. Ensure level flight; you had a vertical speed of -50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 144,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": 50
+            },
+            {
+                "Point": 180,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 216,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 100
+            },
+            {
+                "Point": 252,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -100
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 40 degrees. Ensure level flight; you had a vertical speed of 100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 30,
+                "VSI": 50
+            },
+            {
+                "Point": 36,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": 50
+            },
+            {
+                "Point": 72,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": 50
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": 100
+            },
+            {
+                "Point": 144,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 216,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 252,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -50
+            },
+            {
+                "Point": 288,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 324,
+                "ASI": 93,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 30,
+                "VSI": -100
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 30 degrees. Ensure level flight; you had a vertical speed of -100 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    },
+    {
+        "input": [
+            {
+                "Point": 0,
+                "ASI": 87,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 36,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 270,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 72,
+                "ASI": 95,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": 100
+            },
+            {
+                "Point": 108,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 50,
+                "VSI": -100
+            },
+            {
+                "Point": 144,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 40,
+                "VSI": 100
+            },
+            {
+                "Point": 180,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle right",
+                "Bank Angle": 60,
+                "VSI": -50
+            },
+            {
+                "Point": 216,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": -50
+            },
+            {
+                "Point": 252,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 180,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 50,
+                "VSI": 100
+            },
+            {
+                "Point": 288,
+                "ASI": 100,
+                "AI": "level",
+                "Heading": 90,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 35,
+                "VSI": -100
+            },
+            {
+                "Point": 324,
+                "ASI": 85,
+                "AI": "level",
+                "Heading": 0,
+                "Turn and Slip": "turn needle left",
+                "Bank Angle": 40,
+                "VSI": -50
+            }
+        ],
+        "response": "Adjust your airspeed to maintain 90 knots throughout the turn. Correct your bank angle to exactly 45 degrees; it was 40 degrees. Ensure level flight; you had a vertical speed of -50 fpm. Keep the turn and slip indicator centered to ensure a coordinated turn."
+    }
+]

@@ -1,0 +1,24 @@
+type PostData @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  username: String
+  userId: String
+  title: String
+  content: String
+  uiImage: String
+  date: AWSDate
+  duration: Float
+  distance: Float
+  likes: Int
+}
+
+type Profile @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  username: String
+  userId: String
+  profileImage: String
+  rank: String
+  hours: Int
+  followers: Int
+  groups: Int
+}
+ 

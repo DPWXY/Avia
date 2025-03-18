@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A1D973C42D680841008678B0 /* OpenAI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D973C32D680826008678B0 /* OpenAI.swift */; };
 		A1F758252D66F8D2001C77DC /* ChatLLM.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F758242D66F8C9001C77DC /* ChatLLM.swift */; };
 		D63AD7DA2D6457B5003DB12D /* avia_copilot_swiftuiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63AD7D92D6457B5003DB12D /* avia_copilot_swiftuiApp.swift */; };
 		D63AD7DC2D6457B5003DB12D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63AD7DB2D6457B5003DB12D /* ContentView.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A1D973C32D680826008678B0 /* OpenAI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenAI.swift; sourceTree = "<group>"; };
 		A1F758242D66F8C9001C77DC /* ChatLLM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatLLM.swift; sourceTree = "<group>"; };
 		D63AD7D62D6457B5003DB12D /* avia-copilot-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "avia-copilot-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D63AD7D92D6457B5003DB12D /* avia_copilot_swiftuiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avia_copilot_swiftuiApp.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		D63AD7D82D6457B5003DB12D /* avia-copilot-swiftui */ = {
 			isa = PBXGroup;
 			children = (
+				A1D973C32D680826008678B0 /* OpenAI.swift */,
 				A1F758242D66F8C9001C77DC /* ChatLLM.swift */,
 				D63AD7D92D6457B5003DB12D /* avia_copilot_swiftuiApp.swift */,
 				D63AD7DB2D6457B5003DB12D /* ContentView.swift */,
@@ -263,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1D973C42D680841008678B0 /* OpenAI.swift in Sources */,
 				D63AD7DC2D6457B5003DB12D /* ContentView.swift in Sources */,
 				A1F758252D66F8D2001C77DC /* ChatLLM.swift in Sources */,
 				D63AD8082D646565003DB12D /* AviaView.swift in Sources */,

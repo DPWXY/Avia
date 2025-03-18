@@ -3,5 +3,20 @@
     "Version": "0.1.0",
     "IdentityManager": {
         "Default": {}
+    },
+    "AppSync": {
+        "Default": {
+            "ApiUrl": "https://hvoovgi33za4bcmcr2ncyuvi2e.appsync-api.us-west-1.amazonaws.com/graphql",
+            "Region": "us-west-1",
+            "AuthMode": "API_KEY",
+            "ApiKey": "da2-cc5jmdm5fffbtjuc7pnocumjue",
+            "ClientDatabasePrefix": "Aviadev_API_KEY"
+        },
+        "Aviadev_AWS_IAM": {
+            "ApiUrl": "https://hvoovgi33za4bcmcr2ncyuvi2e.appsync-api.us-west-1.amazonaws.com/graphql",
+            "Region": "us-west-1",
+            "AuthMode": "AWS_IAM",
+            "ClientDatabasePrefix": "Aviadev_AWS_IAM"
+        }
     }
 }

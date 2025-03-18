@@ -1,0 +1,792 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		361D71BEEBAEB791ED9CEDA5 /* Profile+Schema.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75EFAFDA93478AFCBE65D08 /* Profile+Schema.swift */; };
+		5AEB5DEA8AB719C7934A1EBD /* amplifyconfiguration.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E97EE4A835513465CDC0968 /* amplifyconfiguration.json */; };
+		71FBCFD9DD00A73E14AAC8A2 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25729477833BAA97555AC69D /* Profile.swift */; };
+		729AC201AD9DF458AA52199F /* PostData+Schema.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34ADE2C4C86DE4AA2F569677 /* PostData+Schema.swift */; };
+		90D1BA3CFABBA20367CE7F4E /* AmplifyModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF8C0C2AF9A2FE6BEDFB9C4C /* AmplifyModels.swift */; };
+		A14535CE2D7E370E0056EB9D /* Authenticator in Frameworks */ = {isa = PBXBuildFile; productRef = A14535CD2D7E370E0056EB9D /* Authenticator */; };
+		A14E9D9D2D768A62008839A4 /* amplify_outputs.json in Resources */ = {isa = PBXBuildFile; fileRef = A14E9D9C2D768A62008839A4 /* amplify_outputs.json */; };
+		A14E9D9E2D768A62008839A4 /* amplify_outputs.json in Resources */ = {isa = PBXBuildFile; fileRef = A14E9D9C2D768A62008839A4 /* amplify_outputs.json */; };
+		A1B31D9C2D76D6200024EF0B /* UserSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B31D9B2D76D61F0024EF0B /* UserSession.swift */; };
+		A1F365F92D7E3CF3007DF352 /* AWSAPIPlugin in Frameworks */ = {isa = PBXBuildFile; productRef = A1F365F82D7E3CF3007DF352 /* AWSAPIPlugin */; };
+		A1F365FB2D7E3CF3007DF352 /* AWSCognitoAuthPlugin in Frameworks */ = {isa = PBXBuildFile; productRef = A1F365FA2D7E3CF3007DF352 /* AWSCognitoAuthPlugin */; };
+		A1F365FD2D7E3CF3007DF352 /* AWSDataStorePlugin in Frameworks */ = {isa = PBXBuildFile; productRef = A1F365FC2D7E3CF3007DF352 /* AWSDataStorePlugin */; };
+		A1F365FF2D7E3CF3007DF352 /* AWSPluginsCore in Frameworks */ = {isa = PBXBuildFile; productRef = A1F365FE2D7E3CF3007DF352 /* AWSPluginsCore */; };
+		A1F366012D7E3CF3007DF352 /* Amplify in Frameworks */ = {isa = PBXBuildFile; productRef = A1F366002D7E3CF3007DF352 /* Amplify */; };
+		A1F366042D7FFE70007DF352 /* OpenAI in Frameworks */ = {isa = PBXBuildFile; productRef = A1F366032D7FFE70007DF352 /* OpenAI */; };
+		A1F366062D7FFEC7007DF352 /* ChatInterfaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1F366052D7FFEC3007DF352 /* ChatInterfaceView.swift */; };
+		BC038D1C20307D9B2BE3B0AC /* awsconfiguration.json in Resources */ = {isa = PBXBuildFile; fileRef = 80E80C8600549742C6290D01 /* awsconfiguration.json */; };
+		D64F75D92D6D665C0077524B /* avia_swiftuiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F75D82D6D665C0077524B /* avia_swiftuiApp.swift */; };
+		D64F75DB2D6D665C0077524B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F75DA2D6D665C0077524B /* ContentView.swift */; };
+		D64F75DD2D6D665E0077524B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D64F75DC2D6D665E0077524B /* Assets.xcassets */; };
+		D64F75E02D6D665E0077524B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D64F75DF2D6D665E0077524B /* Preview Assets.xcassets */; };
+		D64F75EA2D6D665E0077524B /* avia_swiftuiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F75E92D6D665E0077524B /* avia_swiftuiTests.swift */; };
+		D64F75F42D6D665E0077524B /* avia_swiftuiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F75F32D6D665E0077524B /* avia_swiftuiUITests.swift */; };
+		D64F75F62D6D665E0077524B /* avia_swiftuiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F75F52D6D665E0077524B /* avia_swiftuiUITestsLaunchTests.swift */; };
+		D64F76032D6D66890077524B /* AviaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F76022D6D66890077524B /* AviaView.swift */; };
+		D64F76052D6D66A60077524B /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F76042D6D66A60077524B /* Post.swift */; };
+		D64F76072D6D66BE0077524B /* PilotProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F76062D6D66BE0077524B /* PilotProfile.swift */; };
+		D64F76092D6D67660077524B /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F76082D6D67660077524B /* ImagePicker.swift */; };
+		D64F760B2D6D6A3A0077524B /* ChatBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F760A2D6D6A3A0077524B /* ChatBubble.swift */; };
+		D64F760D2D6D6A6B0077524B /* ChatModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F760C2D6D6A6B0077524B /* ChatModels.swift */; };
+		D64F760F2D6D6A820077524B /* MessageBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F760E2D6D6A820077524B /* MessageBubble.swift */; };
+		D64F76112D6D6ACC0077524B /* AviaCopilotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F76102D6D6ACC0077524B /* AviaCopilotView.swift */; };
+		D64F76132D6D6F170077524B /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F76122D6D6F170077524B /* FeedView.swift */; };
+		D64F76152D6D965A0077524B /* GroupsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F76142D6D965A0077524B /* GroupsView.swift */; };
+		D64F76172D6D96760077524B /* Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F76162D6D96760077524B /* Group.swift */; };
+		D64F76192D6D97A40077524B /* CreatePostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F76182D6D97A40077524B /* CreatePostView.swift */; };
+		D64F761B2D6D99E20077524B /* ChatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64F761A2D6D99E20077524B /* ChatsView.swift */; };
+		DE18C5DE6348D1328BA6C12B /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 372D8FF65701B67E7E26673E /* PostData.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D64F75E62D6D665E0077524B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D64F75CD2D6D665C0077524B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D64F75D42D6D665C0077524B;
+			remoteInfo = "avia-swiftui";
+		};
+		D64F75F02D6D665E0077524B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D64F75CD2D6D665C0077524B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D64F75D42D6D665C0077524B;
+			remoteInfo = "avia-swiftui";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		25729477833BAA97555AC69D /* Profile.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Profile.swift; path = amplify/generated/models/Profile.swift; sourceTree = "<group>"; };
+		34ADE2C4C86DE4AA2F569677 /* PostData+Schema.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = "PostData+Schema.swift"; path = "amplify/generated/models/PostData+Schema.swift"; sourceTree = "<group>"; };
+		372D8FF65701B67E7E26673E /* PostData.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = PostData.swift; path = amplify/generated/models/PostData.swift; sourceTree = "<group>"; };
+		6E97EE4A835513465CDC0968 /* amplifyconfiguration.json */ = {isa = PBXFileReference; explicitFileType = text.json; path = amplifyconfiguration.json; sourceTree = "<group>"; };
+		80E80C8600549742C6290D01 /* awsconfiguration.json */ = {isa = PBXFileReference; explicitFileType = text.json; path = awsconfiguration.json; sourceTree = "<group>"; };
+		A14E9D9C2D768A62008839A4 /* amplify_outputs.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = amplify_outputs.json; sourceTree = SOURCE_ROOT; };
+		A1B31D9B2D76D61F0024EF0B /* UserSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSession.swift; sourceTree = "<group>"; };
+		A1F366052D7FFEC3007DF352 /* ChatInterfaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatInterfaceView.swift; sourceTree = "<group>"; };
+		A1F366092D80084E007DF352 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C75EFAFDA93478AFCBE65D08 /* Profile+Schema.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = "Profile+Schema.swift"; path = "amplify/generated/models/Profile+Schema.swift"; sourceTree = "<group>"; };
+		D64F75D52D6D665C0077524B /* avia-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "avia-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D64F75D82D6D665C0077524B /* avia_swiftuiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avia_swiftuiApp.swift; sourceTree = "<group>"; };
+		D64F75DA2D6D665C0077524B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D64F75DC2D6D665E0077524B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D64F75DF2D6D665E0077524B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D64F75E52D6D665E0077524B /* avia-swiftuiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "avia-swiftuiTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D64F75E92D6D665E0077524B /* avia_swiftuiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avia_swiftuiTests.swift; sourceTree = "<group>"; };
+		D64F75EF2D6D665E0077524B /* avia-swiftuiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "avia-swiftuiUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D64F75F32D6D665E0077524B /* avia_swiftuiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avia_swiftuiUITests.swift; sourceTree = "<group>"; };
+		D64F75F52D6D665E0077524B /* avia_swiftuiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = avia_swiftuiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D64F76022D6D66890077524B /* AviaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AviaView.swift; sourceTree = "<group>"; };
+		D64F76042D6D66A60077524B /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		D64F76062D6D66BE0077524B /* PilotProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PilotProfile.swift; sourceTree = "<group>"; };
+		D64F76082D6D67660077524B /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		D64F760A2D6D6A3A0077524B /* ChatBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatBubble.swift; sourceTree = "<group>"; };
+		D64F760C2D6D6A6B0077524B /* ChatModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatModels.swift; sourceTree = "<group>"; };
+		D64F760E2D6D6A820077524B /* MessageBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageBubble.swift; sourceTree = "<group>"; };
+		D64F76102D6D6ACC0077524B /* AviaCopilotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AviaCopilotView.swift; sourceTree = "<group>"; };
+		D64F76122D6D6F170077524B /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		D64F76142D6D965A0077524B /* GroupsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupsView.swift; sourceTree = "<group>"; };
+		D64F76162D6D96760077524B /* Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group.swift; sourceTree = "<group>"; };
+		D64F76182D6D97A40077524B /* CreatePostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePostView.swift; sourceTree = "<group>"; };
+		D64F761A2D6D99E20077524B /* ChatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatsView.swift; sourceTree = "<group>"; };
+		FF8C0C2AF9A2FE6BEDFB9C4C /* AmplifyModels.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = AmplifyModels.swift; path = amplify/generated/models/AmplifyModels.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D64F75D22D6D665C0077524B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1F365F92D7E3CF3007DF352 /* AWSAPIPlugin in Frameworks */,
+				A14535CE2D7E370E0056EB9D /* Authenticator in Frameworks */,
+				A1F365FB2D7E3CF3007DF352 /* AWSCognitoAuthPlugin in Frameworks */,
+				A1F366012D7E3CF3007DF352 /* Amplify in Frameworks */,
+				A1F366042D7FFE70007DF352 /* OpenAI in Frameworks */,
+				A1F365FD2D7E3CF3007DF352 /* AWSDataStorePlugin in Frameworks */,
+				A1F365FF2D7E3CF3007DF352 /* AWSPluginsCore in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D64F75E22D6D665E0077524B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D64F75EC2D6D665E0077524B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		951511C4DA5899E34E3FC525 /* AmplifyConfig */ = {
+			isa = PBXGroup;
+			children = (
+				80E80C8600549742C6290D01 /* awsconfiguration.json */,
+				6E97EE4A835513465CDC0968 /* amplifyconfiguration.json */,
+			);
+			name = AmplifyConfig;
+			sourceTree = "<group>";
+		};
+		B41FC688B6E7AD5B50B16415 /* AmplifyModels */ = {
+			isa = PBXGroup;
+			children = (
+				FF8C0C2AF9A2FE6BEDFB9C4C /* AmplifyModels.swift */,
+				34ADE2C4C86DE4AA2F569677 /* PostData+Schema.swift */,
+				372D8FF65701B67E7E26673E /* PostData.swift */,
+				C75EFAFDA93478AFCBE65D08 /* Profile+Schema.swift */,
+				25729477833BAA97555AC69D /* Profile.swift */,
+			);
+			name = AmplifyModels;
+			sourceTree = "<group>";
+		};
+		D64F75CC2D6D665C0077524B = {
+			isa = PBXGroup;
+			children = (
+				D64F75D72D6D665C0077524B /* avia-swiftui */,
+				D64F75E82D6D665E0077524B /* avia-swiftuiTests */,
+				D64F75F22D6D665E0077524B /* avia-swiftuiUITests */,
+				D64F75D62D6D665C0077524B /* Products */,
+				951511C4DA5899E34E3FC525 /* AmplifyConfig */,
+				B41FC688B6E7AD5B50B16415 /* AmplifyModels */,
+			);
+			sourceTree = "<group>";
+		};
+		D64F75D62D6D665C0077524B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D64F75D52D6D665C0077524B /* avia-swiftui.app */,
+				D64F75E52D6D665E0077524B /* avia-swiftuiTests.xctest */,
+				D64F75EF2D6D665E0077524B /* avia-swiftuiUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D64F75D72D6D665C0077524B /* avia-swiftui */ = {
+			isa = PBXGroup;
+			children = (
+				A1F366092D80084E007DF352 /* Info.plist */,
+				D64F75D82D6D665C0077524B /* avia_swiftuiApp.swift */,
+				D64F75DA2D6D665C0077524B /* ContentView.swift */,
+				D64F75DC2D6D665E0077524B /* Assets.xcassets */,
+				D64F75DE2D6D665E0077524B /* Preview Content */,
+				D64F76022D6D66890077524B /* AviaView.swift */,
+				D64F76042D6D66A60077524B /* Post.swift */,
+				D64F76062D6D66BE0077524B /* PilotProfile.swift */,
+				D64F76082D6D67660077524B /* ImagePicker.swift */,
+				D64F760A2D6D6A3A0077524B /* ChatBubble.swift */,
+				A1F366052D7FFEC3007DF352 /* ChatInterfaceView.swift */,
+				D64F760C2D6D6A6B0077524B /* ChatModels.swift */,
+				D64F760E2D6D6A820077524B /* MessageBubble.swift */,
+				A1B31D9B2D76D61F0024EF0B /* UserSession.swift */,
+				D64F76102D6D6ACC0077524B /* AviaCopilotView.swift */,
+				D64F76122D6D6F170077524B /* FeedView.swift */,
+				D64F76142D6D965A0077524B /* GroupsView.swift */,
+				D64F76162D6D96760077524B /* Group.swift */,
+				D64F76182D6D97A40077524B /* CreatePostView.swift */,
+				D64F761A2D6D99E20077524B /* ChatsView.swift */,
+			);
+			path = "avia-swiftui";
+			sourceTree = "<group>";
+		};
+		D64F75DE2D6D665E0077524B /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D64F75DF2D6D665E0077524B /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D64F75E82D6D665E0077524B /* avia-swiftuiTests */ = {
+			isa = PBXGroup;
+			children = (
+				D64F75E92D6D665E0077524B /* avia_swiftuiTests.swift */,
+			);
+			path = "avia-swiftuiTests";
+			sourceTree = "<group>";
+		};
+		D64F75F22D6D665E0077524B /* avia-swiftuiUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D64F75F32D6D665E0077524B /* avia_swiftuiUITests.swift */,
+				D64F75F52D6D665E0077524B /* avia_swiftuiUITestsLaunchTests.swift */,
+				A14E9D9C2D768A62008839A4 /* amplify_outputs.json */,
+			);
+			path = "avia-swiftuiUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D64F75D42D6D665C0077524B /* avia-swiftui */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D64F75F92D6D665E0077524B /* Build configuration list for PBXNativeTarget "avia-swiftui" */;
+			buildPhases = (
+				D64F75D12D6D665C0077524B /* Sources */,
+				D64F75D22D6D665C0077524B /* Frameworks */,
+				D64F75D32D6D665C0077524B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "avia-swiftui";
+			productName = "avia-swiftui";
+			productReference = D64F75D52D6D665C0077524B /* avia-swiftui.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D64F75E42D6D665E0077524B /* avia-swiftuiTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D64F75FC2D6D665E0077524B /* Build configuration list for PBXNativeTarget "avia-swiftuiTests" */;
+			buildPhases = (
+				D64F75E12D6D665E0077524B /* Sources */,
+				D64F75E22D6D665E0077524B /* Frameworks */,
+				D64F75E32D6D665E0077524B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D64F75E72D6D665E0077524B /* PBXTargetDependency */,
+			);
+			name = "avia-swiftuiTests";
+			productName = "avia-swiftuiTests";
+			productReference = D64F75E52D6D665E0077524B /* avia-swiftuiTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D64F75EE2D6D665E0077524B /* avia-swiftuiUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D64F75FF2D6D665E0077524B /* Build configuration list for PBXNativeTarget "avia-swiftuiUITests" */;
+			buildPhases = (
+				D64F75EB2D6D665E0077524B /* Sources */,
+				D64F75EC2D6D665E0077524B /* Frameworks */,
+				D64F75ED2D6D665E0077524B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D64F75F12D6D665E0077524B /* PBXTargetDependency */,
+			);
+			name = "avia-swiftuiUITests";
+			productName = "avia-swiftuiUITests";
+			productReference = D64F75EF2D6D665E0077524B /* avia-swiftuiUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D64F75CD2D6D665C0077524B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					D64F75D42D6D665C0077524B = {
+						CreatedOnToolsVersion = 15.4;
+					};
+					D64F75E42D6D665E0077524B = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = D64F75D42D6D665C0077524B;
+					};
+					D64F75EE2D6D665E0077524B = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = D64F75D42D6D665C0077524B;
+					};
+				};
+			};
+			buildConfigurationList = D64F75D02D6D665C0077524B /* Build configuration list for PBXProject "avia-swiftui" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D64F75CC2D6D665C0077524B;
+			packageReferences = (
+				A14535CC2D7E370E0056EB9D /* XCRemoteSwiftPackageReference "amplify-ui-swift-authenticator" */,
+				A1F365F72D7E3CF3007DF352 /* XCRemoteSwiftPackageReference "amplify-swift" */,
+				A1F366022D7FFE70007DF352 /* XCRemoteSwiftPackageReference "OpenAI" */,
+			);
+			productRefGroup = D64F75D62D6D665C0077524B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D64F75D42D6D665C0077524B /* avia-swiftui */,
+				D64F75E42D6D665E0077524B /* avia-swiftuiTests */,
+				D64F75EE2D6D665E0077524B /* avia-swiftuiUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D64F75D32D6D665C0077524B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D64F75E02D6D665E0077524B /* Preview Assets.xcassets in Resources */,
+				D64F75DD2D6D665E0077524B /* Assets.xcassets in Resources */,
+				A14E9D9E2D768A62008839A4 /* amplify_outputs.json in Resources */,
+				BC038D1C20307D9B2BE3B0AC /* awsconfiguration.json in Resources */,
+				5AEB5DEA8AB719C7934A1EBD /* amplifyconfiguration.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D64F75E32D6D665E0077524B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D64F75ED2D6D665E0077524B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A14E9D9D2D768A62008839A4 /* amplify_outputs.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D64F75D12D6D665C0077524B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D64F75DB2D6D665C0077524B /* ContentView.swift in Sources */,
+				D64F76032D6D66890077524B /* AviaView.swift in Sources */,
+				D64F75D92D6D665C0077524B /* avia_swiftuiApp.swift in Sources */,
+				D64F76092D6D67660077524B /* ImagePicker.swift in Sources */,
+				D64F76112D6D6ACC0077524B /* AviaCopilotView.swift in Sources */,
+				D64F760F2D6D6A820077524B /* MessageBubble.swift in Sources */,
+				D64F76172D6D96760077524B /* Group.swift in Sources */,
+				D64F76152D6D965A0077524B /* GroupsView.swift in Sources */,
+				D64F76192D6D97A40077524B /* CreatePostView.swift in Sources */,
+				A1B31D9C2D76D6200024EF0B /* UserSession.swift in Sources */,
+				D64F76132D6D6F170077524B /* FeedView.swift in Sources */,
+				D64F76072D6D66BE0077524B /* PilotProfile.swift in Sources */,
+				D64F76052D6D66A60077524B /* Post.swift in Sources */,
+				D64F761B2D6D99E20077524B /* ChatsView.swift in Sources */,
+				D64F760B2D6D6A3A0077524B /* ChatBubble.swift in Sources */,
+				D64F760D2D6D6A6B0077524B /* ChatModels.swift in Sources */,
+				90D1BA3CFABBA20367CE7F4E /* AmplifyModels.swift in Sources */,
+				729AC201AD9DF458AA52199F /* PostData+Schema.swift in Sources */,
+				DE18C5DE6348D1328BA6C12B /* PostData.swift in Sources */,
+				361D71BEEBAEB791ED9CEDA5 /* Profile+Schema.swift in Sources */,
+				A1F366062D7FFEC7007DF352 /* ChatInterfaceView.swift in Sources */,
+				71FBCFD9DD00A73E14AAC8A2 /* Profile.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D64F75E12D6D665E0077524B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D64F75EA2D6D665E0077524B /* avia_swiftuiTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D64F75EB2D6D665E0077524B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D64F75F42D6D665E0077524B /* avia_swiftuiUITests.swift in Sources */,
+				D64F75F62D6D665E0077524B /* avia_swiftuiUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D64F75E72D6D665E0077524B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D64F75D42D6D665C0077524B /* avia-swiftui */;
+			targetProxy = D64F75E62D6D665E0077524B /* PBXContainerItemProxy */;
+		};
+		D64F75F12D6D665E0077524B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D64F75D42D6D665C0077524B /* avia-swiftui */;
+			targetProxy = D64F75F02D6D665E0077524B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D64F75F72D6D665E0077524B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D64F75F82D6D665E0077524B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D64F75FA2D6D665E0077524B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"avia-swiftui/Preview Content\"";
+				DEVELOPMENT_TEAM = W8PAL7KM8Z;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "avia-swiftui/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "-0008120-00182C282240C01E";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D64F75FB2D6D665E0077524B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"avia-swiftui/Preview Content\"";
+				DEVELOPMENT_TEAM = W8PAL7KM8Z;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "avia-swiftui/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "-0008120-00182C282240C01E";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D64F75FD2D6D665E0077524B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-swiftuiTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/avia-swiftui.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/avia-swiftui";
+			};
+			name = Debug;
+		};
+		D64F75FE2D6D665E0077524B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-swiftuiTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/avia-swiftui.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/avia-swiftui";
+			};
+			name = Release;
+		};
+		D64F76002D6D665E0077524B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-swiftuiUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "avia-swiftui";
+			};
+			name = Debug;
+		};
+		D64F76012D6D665E0077524B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3775A7F5Y6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "rana.avia-swiftuiUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "avia-swiftui";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D64F75D02D6D665C0077524B /* Build configuration list for PBXProject "avia-swiftui" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D64F75F72D6D665E0077524B /* Debug */,
+				D64F75F82D6D665E0077524B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D64F75F92D6D665E0077524B /* Build configuration list for PBXNativeTarget "avia-swiftui" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D64F75FA2D6D665E0077524B /* Debug */,
+				D64F75FB2D6D665E0077524B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D64F75FC2D6D665E0077524B /* Build configuration list for PBXNativeTarget "avia-swiftuiTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D64F75FD2D6D665E0077524B /* Debug */,
+				D64F75FE2D6D665E0077524B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D64F75FF2D6D665E0077524B /* Build configuration list for PBXNativeTarget "avia-swiftuiUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D64F76002D6D665E0077524B /* Debug */,
+				D64F76012D6D665E0077524B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A14535CC2D7E370E0056EB9D /* XCRemoteSwiftPackageReference "amplify-ui-swift-authenticator" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/aws-amplify/amplify-ui-swift-authenticator";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.2.3;
+			};
+		};
+		A1F365F72D7E3CF3007DF352 /* XCRemoteSwiftPackageReference "amplify-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/aws-amplify/amplify-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.46.0;
+			};
+		};
+		A1F366022D7FFE70007DF352 /* XCRemoteSwiftPackageReference "OpenAI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/MacPaw/OpenAI";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.3.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A14535CD2D7E370E0056EB9D /* Authenticator */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A14535CC2D7E370E0056EB9D /* XCRemoteSwiftPackageReference "amplify-ui-swift-authenticator" */;
+			productName = Authenticator;
+		};
+		A1F365F82D7E3CF3007DF352 /* AWSAPIPlugin */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1F365F72D7E3CF3007DF352 /* XCRemoteSwiftPackageReference "amplify-swift" */;
+			productName = AWSAPIPlugin;
+		};
+		A1F365FA2D7E3CF3007DF352 /* AWSCognitoAuthPlugin */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1F365F72D7E3CF3007DF352 /* XCRemoteSwiftPackageReference "amplify-swift" */;
+			productName = AWSCognitoAuthPlugin;
+		};
+		A1F365FC2D7E3CF3007DF352 /* AWSDataStorePlugin */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1F365F72D7E3CF3007DF352 /* XCRemoteSwiftPackageReference "amplify-swift" */;
+			productName = AWSDataStorePlugin;
+		};
+		A1F365FE2D7E3CF3007DF352 /* AWSPluginsCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1F365F72D7E3CF3007DF352 /* XCRemoteSwiftPackageReference "amplify-swift" */;
+			productName = AWSPluginsCore;
+		};
+		A1F366002D7E3CF3007DF352 /* Amplify */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1F365F72D7E3CF3007DF352 /* XCRemoteSwiftPackageReference "amplify-swift" */;
+			productName = Amplify;
+		};
+		A1F366032D7FFE70007DF352 /* OpenAI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A1F366022D7FFE70007DF352 /* XCRemoteSwiftPackageReference "OpenAI" */;
+			productName = OpenAI;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = D64F75CD2D6D665C0077524B /* Project object */;
+}

@@ -1,4 +1,17 @@
 {
     "UserAgent": "aws-amplify-cli/2.0",
-    "Version": "1.0"
+    "Version": "1.0",
+    "api": {
+        "plugins": {
+            "awsAPIPlugin": {
+                "Aviadev": {
+                    "endpointType": "GraphQL",
+                    "endpoint": "https://hvoovgi33za4bcmcr2ncyuvi2e.appsync-api.us-west-1.amazonaws.com/graphql",
+                    "region": "us-west-1",
+                    "authorizationType": "API_KEY",
+                    "apiKey": "da2-cc5jmdm5fffbtjuc7pnocumjue"
+                }
+            }
+        }
+    }
 }

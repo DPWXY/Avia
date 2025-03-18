@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://avia.ai/sitemap.xml
-
-# Allow all robots complete access
-Disallow:
